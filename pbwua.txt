@@ -2815,3 +2815,5312 @@ Ulefone Armor 24 Rugged Phone
 0,0.1,ulefone,rugged,battery,android
 694181000060
 
+0.2001
+Apple MacBook Air M3 13-inch 256GB
+0
+0.2
+14200.00
+13500.00 - 15000.00
+0,0.2,apple,macbook,macbookair,m3,macOS
+194253000501
+
+0.2002
+Apple MacBook Air M2 13-inch 256GB
+0
+0.2
+11800.00
+11000.00 - 12500.00
+0,0.2,apple,macbook,macbookair,m2,macOS
+194253000502
+
+0.2003
+Apple MacBook Pro 14-inch M3 512GB
+0
+0.2
+18900.00
+17800.00 - 20000.00
+0,0.2,apple,macbook,macbookpro,m3,pro
+194253000503
+
+0.2004
+Apple MacBook Pro 16-inch M3 Max 1TB
+0
+0.2
+38500.00
+36500.00 - 41000.00
+0,0.2,apple,macbook,macbookpro,m3max,workstation
+194253000504
+
+0.2005
+Apple MacBook Air M1 13-inch 256GB
+0
+0.2
+8500.00
+7900.00 - 9200.00
+0,0.2,apple,macbook,macbookair,m1,budgetmac
+194253000505
+
+0.2006
+HP EliteBook 840 G10 Core i7 16GB 512GB
+0
+0.2
+15600.00
+14800.00 - 16500.00
+0,0.2,hp,elitebook,840g10,corei7,business
+194253000506
+
+0.2007
+HP EliteBook 840 G8 Core i5 8GB 256GB
+0
+0.2
+5200.00
+4800.00 - 5600.00
+0,0.2,hp,elitebook,840g8,corei5,business
+194253000507
+
+0.2008
+HP ProBook 440 G10 Core Ultra 5 16GB
+0
+0.2
+8200.00
+7800.00 - 8800.00
+0,0.2,hp,probook,440g10,coreultra,office
+194253000508
+
+0.2009
+HP Pavilion 15 Core i5 13th Gen 8GB 512GB
+0
+0.2
+6800.00
+6300.00 - 7300.00
+0,0.2,hp,pavilion,pavilion15,corei5,student
+194253000509
+
+0.2010
+HP Victus 15 Ryzen 5 RTX 4050 16GB
+0
+0.2
+14200.00
+13500.00 - 15000.00
+0,0.2,hp,victus,gaming,rtx4050,ryzen5
+194253000510
+
+0.2011
+HP Spectre x360 14 Core Ultra 7 OLED 1TB
+0
+0.2
+26500.00
+25000.00 - 28000.00
+0,0.2,hp,spectre,x360,2in1,touchscreen,oled
+194253000511
+
+0.2012
+HP Envy x360 15 Core i7 16GB 512GB
+0
+0.2
+11500.00
+10800.00 - 12300.00
+0,0.2,hp,envy,envyx360,touch,convertible
+194253000512
+
+0.2013
+HP Laptop 15 Core i3 12th Gen 8GB 256GB
+0
+0.2
+4950.00
+4600.00 - 5300.00
+0,0.2,hp,notebook15,corei3,student,budget
+194253000513
+
+0.2014
+Dell XPS 13 9315 Core i7 16GB 512GB
+0
+0.2
+1400.00
+13200.00 - 15000.00
+0,0.1,dell,xps13,ultrabook,corei7,premium
+880609000514
+
+0.2015
+Dell Latitude 5440 Core i5 16GB 512GB
+0
+0.2
+13200.00
+12500.00 - 14000.00
+0,0.2,dell,latitude,latitude5440,business,corei5
+880609000515
+
+0.2016
+Dell Latitude 5420 Core i7 16GB 256GB
+0
+0.2
+5100.00
+4700.00 - 5500.00
+0,0.2,dell,latitude,5420,corei7,office
+880609000516
+
+0.2017
+Dell Inspiron 15 3520 Core i5 8GB 512GB
+0
+0.2
+6200.00
+5800.00 - 6600.00
+0,0.2,dell,inspiron,inspiron15,corei5,student
+880609000517
+
+0.2018
+Dell G15 5530 Core i7 RTX 4060 16GB
+0
+0.2
+16800.00
+15900.00 - 17800.00
+0,0.2,dell,dellg15,gaming,rtx4060,corei7
+880609000518
+
+0.2019
+Dell Alienware m16 R2 Core Ultra 7 RTX 4070
+0
+0.2
+28500.00
+27000.00 - 30000.00
+0,0.2,dell,alienware,m16,gaming,rtx4070
+880609000519
+
+0.2020
+Lenovo ThinkPad T14s Gen 4 Core i7 16GB
+0
+0.2
+14800.00
+14000.00 - 15600.00
+0,0.2,lenovo,thinkpad,t14s,corei7,business
+194253000520
+
+0.2021
+Lenovo ThinkPad E14 Gen 5 Core i5 8GB 512GB
+0
+0.2
+7200.00
+6800.00 - 7700.00
+0,0.2,lenovo,thinkpad,e14,corei5,office
+194253000521
+
+0.2022
+Lenovo Yoga Slim 7 Pro Core i7 16GB 1TB OLED
+0
+0.2
+13850.00
+13000.00 - 14700.00
+0,0.2,lenovo,yoga,yogaslim,oled,touch
+194253000522
+
+0.2023
+Lenovo IdeaPad 1 15 Core i5 8GB 256GB
+0
+0.2
+3600.00
+3300.00 - 3900.00
+0,0.2,lenovo,ideapad,ideapad1,corei5,budget
+194253000523
+
+0.2024
+Lenovo Legion 5 Pro Ryzen 7 RTX 4060 16GB
+0
+0.2
+18500.00
+17500.00 - 19800.00
+0,0.2,lenovo,legion,legion5pro,gaming,rtx4060
+194253000524
+
+0.2025
+Lenovo LOQ 15 Core i5 RTX 3050 8GB
+0
+0.2
+10500.00
+9800.00 - 11200.00
+0,0.2,lenovo,loq,gaming,budgetgaming,rtx3050
+194253000525
+
+0.2026
+Asus ROG Strix G16 Core i7 RTX 4060 16GB
+0
+0.2
+16400.00
+15500.00 - 17500.00
+0,0.2,asus,rog,strix,g16,gaming,rtx4060
+489512000526
+
+0.2027
+Asus TUF Gaming A15 Ryzen 7 RTX 4050
+0
+0.2
+12800.00
+12000.00 - 13600.00
+0,0.2,asus,tuf,tufa15,gaming,ryzen7
+489512000527
+
+0.2028
+Asus ZenBook 14 OLED Core Ultra 7 16GB 1TB
+0
+0.2
+15500.00
+14600.00 - 16500.00
+0,0.2,asus,zenbook,zenbook14,oled,ultrabook
+489512000528
+
+0.2029
+Asus VivoBook 15 Core i5 8GB 512GB
+0
+0.2
+5400.00
+5000.00 - 5800.00
+0,0.2,asus,vivobook,vivobook15,corei5,student
+489512000529
+
+0.2030
+Asus ROG Zephyrus G14 Ryzen 9 RTX 4070
+0
+0.2
+24500.00
+23200.00 - 26000.00
+0,0.2,asus,rog,zephyrus,g14,portablegaming
+489512000530
+
+0.2031
+Acer Nitro 5 Core i5 RTX 4050 16GB 512GB
+0
+0.2
+14200.00
+13400.00 - 15000.00
+0,0.2,acer,nitro5,gaming,rtx4050,budgetgaming
+694181000531
+
+0.2032
+Acer Aspire 3 Core i3 8GB 256GB
+0
+0.2
+3900.00
+3600.00 - 4200.00
+0,0.2,acer,aspire3,student,budget,office
+694181000532
+
+0.2033
+Acer Swift Go 14 OLED Core Ultra 5 16GB
+0
+0.2
+11200.00
+10500.00 - 12000.00
+0,0.2,acer,swiftgo,oled,thinandlight,coreultra
+694181000533
+
+0.2034
+MSI Katana 15 Core i7 RTX 4060 16GB
+0
+0.2
+15800.00
+14900.00 - 16800.00
+0,0.2,msi,katana15,gaming,rtx4060,corei7
+694181000534
+
+0.2035
+MSI Cyborg 15 Core i5 RTX 3050 8GB
+0
+0.2
+9800.00
+9200.00 - 10500.00
+0,0.2,msi,cyborg15,gaming,budgetgaming,rtx3050
+694181000535
+
+0.2036
+MSI Modern 14 Core i5 8GB 512GB
+0
+0.2
+5200.00
+4800.00 - 5600.00
+0,0.2,msi,modern14,office,student,portable
+694181000536
+
+0.2037
+Infinix INBook Y2 Max Core i5 8GB 512GB
+0
+0.2
+3450.00
+3150.00 - 3700.00
+0,0.2,infinix,inbook,y2max,budgetlaptop,student
+489512000537
+
+0.2038
+Infinix INBook X3 Slim Core i7 16GB 512GB
+0
+0.2
+4800.00
+4400.00 - 5200.00
+0,0.2,infinix,inbookx3,slim,corei7,portable
+489512000538
+
+0.2039
+Tecno Megabook T1 Core i5 16GB 512GB
+0
+0.2
+3950.00
+3650.00 - 4300.00
+0,0.2,tecno,megabook,t1,slim,student
+489512000539
+
+0.2040
+Tecno Megabook S1 Core i7 16GB 1TB
+0
+0.2
+6500.00
+6000.00 - 7000.00
+0,0.2,tecno,megabook,s1,flagship,slim
+489512000540
+
+0.2041
+HP Chromebook 14a Celeron 4GB 64GB
+0
+0.2
+2800.00
+2500.00 - 3100.00
+0,0.2,hp,chromebook,14a,budget,chromeOS
+194253000541
+
+0.2042
+Lenovo Chromebook IdeaPad 3 Celeron 4GB
+0
+0.2
+2650.00
+2400.00 - 2900.00
+0,0.2,lenovo,chromebook,ideapad3,budget,chromeOS
+194253000542
+
+0.2043
+Asus Chromebook CX1 14 Celeron 4GB 128GB
+0
+0.2
+2950.00
+2700.00 - 3200.00
+0,0.2,asus,chromebook,cx1,entry,chromeOS
+489512000543
+
+0.2044
+Dell Chromebook 3100 Celeron 4GB 32GB
+0
+0.2
+2200.00
+2000.00 - 2450.00
+0,0.2,dell,chromebook,3100,rugged,entry
+880609000544
+
+0.2045
+Microsoft Surface Laptop 5 Core i5 8GB 256GB
+0
+0.2
+11800.00
+11000.00 - 12600.00
+0,0.2,microsoft,surface,surfacelaptop5,touch
+840244000545
+
+0.2046
+Microsoft Surface Pro 9 Core i7 16GB 256GB
+0
+0.2
+14500.00
+13600.00 - 15500.00
+0,0.2,microsoft,surface,surfacepro9,2in1,tablet
+840244000546
+
+0.2047
+Razer Blade 15 Core i7 RTX 4070 16GB 1TB
+0
+0.2
+3200.00
+30000.00 - 34500.00
+0,0.2,razer,razerblade15,gaming,premium,rtx4070
+694181000547
+
+0.2048
+Gigabyte AORUS 15 Core i7 RTX 4060 16GB
+0
+0.2
+16200.00
+15200.00 - 17200.00
+0,0.2,gigabyte,aorus15,gaming,rtx4060,corei7
+694181000548
+
+0.2049
+Huawei MateBook D15 Core i5 8GB 512GB
+0
+0.2
+5800.00
+5300.00 - 6300.00
+0,0.2,huawei,matebook,matebookd15,office,slim
+694181000549
+
+0.2050
+Huawei MateBook X Pro Core i7 16GB 1TB Touch
+0
+0.2
+18500.00
+17500.00 - 19800.00
+0,0.2,huawei,matebook,matebookxpro,flagship,touch
+694181000550
+
+0.2051
+Apple MacBook Air M3 15-inch 512GB
+0
+0.2
+17500.00
+16500.00 - 18500.00
+0,0.2,apple,macbook,macbookair,m3,15inch
+194253000551
+
+0.2052
+Apple MacBook Pro 14-inch M3 Pro 18GB 512GB
+0
+0.2
+24500.00
+23200.00 - 26000.00
+0,0.2,apple,macbook,macbookpro,m3pro,macOS
+194253000552
+
+0.2053
+Apple MacBook Pro 16-inch M3 Pro 36GB 512GB
+0
+0.2
+31500.00
+29800.00 - 33000.00
+0,0.2,apple,macbook,macbookpro,m3pro,16inch
+194253000553
+
+0.2054
+Apple MacBook Air M2 15-inch 256GB
+0
+0.2
+13800.00
+12900.00 - 14600.00
+0,0.2,apple,macbook,macbookair,m2,15inch
+194253000554
+
+0.2055
+Apple MacBook Pro 13-inch M2 8GB 256GB
+0
+0.2
+11200.00
+10500.00 - 12000.00
+0,0.2,apple,macbook,macbookpro,m2,touchbar
+194253000555
+
+0.2056
+HP EliteBook 830 G10 Core i7 16GB 512GB
+0
+0.2
+14800.00
+13900.00 - 15700.00
+0,0.2,hp,elitebook,830g10,corei7,compact
+194253000556
+
+0.2057
+HP EliteBook 840 G7 Core i5 8GB 256GB
+0
+0.2
+4400.00
+4000.00 - 4800.00
+0,0.2,hp,elitebook,840g7,corei5,business
+194253000557
+
+0.2058
+HP EliteBook 840 G6 Core i7 16GB 512GB
+0
+0.2
+4100.00
+3700.00 - 4500.00
+0,0.2,hp,elitebook,840g6,corei7,office
+194253000558
+
+0.2059
+HP ProBook 450 G10 Core i7 16GB 512GB
+0
+0.2
+9800.00
+9200.00 - 10500.00
+0,0.2,hp,probook,450g10,corei7,15inch
+194253000559
+
+0.2060
+HP ProBook 440 G9 Core i5 8GB 512GB
+0
+0.2
+6400.00
+5900.00 - 6900.00
+0,0.2,hp,probook,440g9,corei5,office
+194253000560
+
+0.2061
+HP OMEN 16 Core i7 RTX 4070 16GB 1TB
+0
+0.2
+22500.00
+21000.00 - 24000.00
+0,0.2,hp,omen,omen16,gaming,rtx4070
+194253000561
+
+0.2062
+HP OMEN 17 Core i9 RTX 4080 32GB 1TB
+0
+0.2
+3400.00
+32000.00 - 36500.00
+0,0.2,hp,omen,omen17,gaming,rtx4080,flagship
+194253000562
+
+0.2063
+HP Pavilion x360 14 Core i5 8GB 512GB Touch
+0
+0.2
+7400.00
+6900.00 - 7900.00
+0,0.2,hp,pavilion,x360,touch,convertible
+194253000563
+
+0.2064
+HP ZBook Power G10 Core i7 RTX 2000 Ada 32GB
+0
+0.2
+24800.00
+23500.00 - 26200.00
+0,0.2,hp,zbook,workstation,quadro,engineering
+194253000564
+
+0.2065
+Dell Latitude 7440 Core i7 16GB 512GB
+0
+0.2
+16200.00
+15200.00 - 17200.00
+0,0.2,dell,latitude,7440,corei7,premium
+880609000565
+
+0.2066
+Dell Latitude 5540 Core i5 16GB 512GB
+0
+0.2
+12500.00
+11800.00 - 13200.00
+0,0.2,dell,latitude,5540,15inch,office
+880609000566
+
+0.2067
+Dell Latitude 3440 Core i3 8GB 256GB
+0
+0.2
+5400.00
+5000.00 - 5800.00
+0,0.2,dell,latitude,3440,entry,business
+880609000567
+
+0.2068
+Dell Latitude 7420 Core i7 16GB 512GB
+0
+0.2
+5800.00
+5300.00 - 6300.00
+0,0.2,dell,latitude,7420,corei7,ultrabook
+880609000568
+
+0.2069
+Dell XPS 15 9530 Core i9 RTX 4070 32GB
+0
+0.2
+3100.00
+29000.00 - 33000.00
+0,0.2,dell,xps15,9530,creator,rtx4070
+880609000569
+
+0.2070
+Dell Precision 5570 Core i7 RTX A2000 32GB
+0
+0.2
+21500.00
+20000.00 - 23000.00
+0,0.2,dell,precision,5570,workstation,cad
+880609000570
+
+0.2071
+Lenovo ThinkPad X1 Carbon Gen 11 Core i7 16GB
+0
+0.2
+2100.00
+19800.00 - 22500.00
+0,0.2,lenovo,thinkpad,x1carbon,ultrabook,flagship
+194253000571
+
+0.2072
+Lenovo ThinkPad X1 Yoga Gen 8 Core i7 Touch
+0
+0.2
+22500.00
+21000.00 - 24000.00
+0,0.2,lenovo,thinkpad,x1yoga,2in1,touch
+194253000572
+
+0.2073
+Lenovo ThinkPad L14 Gen 4 Ryzen 5 8GB 512GB
+0
+0.2
+6900.00
+6400.00 - 7400.00
+0,0.2,lenovo,thinkpad,l14,ryzen5,business
+194253000573
+
+0.2074
+Lenovo ThinkBook 15 Gen 5 Core i7 16GB 512GB
+0
+0.2
+8500.00
+7900.00 - 9100.00
+0,0.2,lenovo,thinkbook,15gen5,corei7,office
+194253000574
+
+0.2075
+Lenovo IdeaPad Slim 3 Core i5 8GB 512GB
+0
+0.2
+4800.00
+4400.00 - 5200.00
+0,0.2,lenovo,ideapad,slim3,corei5,student
+194253000575
+
+0.2076
+Lenovo IdeaPad Flex 5 Ryzen 7 16GB 512GB Touch
+0
+0.2
+8200.00
+7600.00 - 8800.00
+0,0.2,lenovo,ideapad,flex5,touch,convertible
+194253000576
+
+0.2077
+Lenovo Legion Slim 5 Ryzen 7 RTX 4060 16GB
+0
+0.2
+16800.00
+15800.00 - 17900.00
+0,0.2,lenovo,legion,legionslim5,gaming,rtx4060
+194253000577
+
+0.2078
+Asus ROG Strix SCAR 16 Core i9 RTX 4080 32GB
+0
+0.2
+36500.00
+34500.00 - 38800.00
+0,0.2,asus,rog,scar16,gaming,rtx4080
+489512000578
+
+0.2079
+Asus TUF Gaming F15 Core i7 RTX 4060 16GB
+0
+0.2
+14500.00
+13600.00 - 15400.00
+0,0.2,asus,tuf,tuff15,gaming,rtx4060
+489512000579
+
+0.2080
+Asus ZenBook Pro 14 Duo OLED Core i9 RTX 4070
+0
+0.2
+29500.00
+28000.00 - 31000.00
+0,0.2,asus,zenbook,duo,dual screen,creator
+489512000580
+
+0.2081
+Asus VivoBook Pro 15 OLED Ryzen 7 RTX 4050
+0
+0.2
+12200.00
+11400.00 - 13000.00
+0,0.2,asus,vivobook,vivobookpro,oled,creator
+489512000581
+
+0.2082
+Asus VivoBook Go 15 Celeron 4GB 128GB
+0
+0.2
+3100.00
+2850.00 - 3350.00
+0,0.2,asus,vivobook,vivobookgo,entry,student
+489512000582
+
+0.2083
+Acer Nitro V 15 Core i5 RTX 4050 8GB 512GB
+0
+0.2
+11800.00
+11000.00 - 12600.00
+0,0.2,acer,nitrov15,gaming,rtx4050,entrygaming
+694181000583
+
+0.2084
+Acer Predator Helios 16 Core i7 RTX 4070 16GB
+0
+0.2
+21500.00
+20000.00 - 23000.00
+0,0.2,acer,predator,helios16,gaming,rtx4070
+694181000584
+
+0.2085
+Acer Aspire 5 Core i5 13th Gen 16GB 512GB
+0
+0.2
+6800.00
+6300.00 - 7300.00
+0,0.2,acer,aspire5,corei5,student,office
+694181000585
+
+0.2086
+Acer Swift 3 Ryzen 7 16GB 512GB
+0
+0.2
+7200.00
+6700.00 - 7700.00
+0,0.2,acer,swift3,ryzen7,thinandlight
+694181000586
+
+0.2087
+MSI Stealth 16 Studio Core i7 RTX 4070 32GB
+0
+0.2
+26500.00
+25000.00 - 28000.00
+0,0.2,msi,stealth16,studio,creator,rtx4070
+694181000587
+
+0.2088
+MSI Thin GF63 Core i5 GTX 1650 8GB 512GB
+0
+0.2
+7800.00
+7200.00 - 8400.00
+0,0.2,msi,gf63,entrygaming,gtx1650
+694181000588
+
+0.2089
+MSI Prestige 14 Evo Core i7 16GB 512GB
+0
+0.2
+9800.00
+9100.00 - 10500.00
+0,0.2,msi,prestige14,evo,business,ultrabook
+694181000589
+
+0.2090
+Infinix INBook X2 Core i5 8GB 512GB
+0
+0.2
+3950.00
+3600.00 - 4300.00
+0,0.2,infinix,inbookx2,metalbody,student
+489512000590
+
+0.2091
+Tecno Megabook T1 Core i7 16GB 1TB
+0
+0.2
+5200.00
+4800.00 - 5600.00
+0,0.2,tecno,megabook,t1,corei7,budgetlaptop
+489512000591
+
+0.2092
+Microsoft Surface Laptop Studio 2 Core i7 RTX 4050
+0
+0.2
+27500.00
+26000.00 - 29000.00
+0,0.2,microsoft,surface,laptopstudio2,touch,creator
+840244000592
+
+0.2093
+Microsoft Surface Go 3 Pentium 8GB 128GB
+0
+0.2
+5600.00
+5100.00 - 6100.00
+0,0.2,microsoft,surface,surfacego3,2in1,entry
+840244000593
+
+0.2094
+Razer Blade 14 Ryzen 9 RTX 4070 16GB 1TB
+0
+0.2
+28500.00
+27000.00 - 30000.00
+0,0.2,razer,razerblade14,compactgaming,rtx4070
+694181000594
+
+0.2095
+Gigabyte G5 KF Core i5 RTX 4060 16GB 512GB
+0
+0.2
+13500.00
+12600.00 - 14400.00
+0,0.2,gigabyte,g5kf,gaming,budgetgaming,rtx4060
+694181000595
+
+0.2096
+Samsung Galaxy Book3 Pro 16 Core i7 16GB 512GB
+0
+0.2
+16500.00
+15500.00 - 17600.00
+0,0.2,samsung,galaxybook3,pro,amoled,thin
+880609000596
+
+0.2097
+Samsung Galaxy Book3 360 Core i5 8GB 512GB Touch
+0
+0.2
+11500.00
+10700.00 - 12300.00
+0,0.2,samsung,galaxybook3,360,touch,convertible
+880609000597
+
+0.2098
+LG Gram 17 Core i7 16GB 1TB Lightweight
+0
+0.2
+18500.00
+17400.00 - 19600.00
+0,0.2,lg,gram,gram17,ultralight,bigscreen
+694181000598
+
+0.2099
+LG Gram 14 Core i5 16GB 512GB
+0
+0.2
+13200.00
+12400.00 - 14000.00
+0,0.2,lg,gram,gram14,portable,battery
+694181000599
+
+0.2100
+HP Chromebook x360 14c Core i3 8GB 128GB
+0
+0.2
+4200.00
+3850.00 - 4600.00
+0,0.2,hp,chromebook,x360,touch,chromeOS
+194253000600
+
+0.2101
+Lenovo ThinkPad P14s Gen 4 Ryzen 7 PRO 32GB
+0
+0.2
+17800.00
+16800.00 - 18900.00
+0,0.2,lenovo,thinkpad,p14s,workstation,ryzen7
+194253000601
+
+0.2102
+Dell Latitude 5320 2-in-1 Core i5 16GB 256GB
+0
+0.2
+5800.00
+5300.00 - 6300.00
+0,0.2,dell,latitude,5320,2in1,touchscreen
+880609000602
+
+0.2103
+HP EliteBook 850 G8 Core i7 16GB 512GB
+0
+0.2
+5900.00
+5400.00 - 6400.00
+0,0.2,hp,elitebook,850g8,corei7,15inch
+194253000603
+
+0.2104
+Asus TUF Dash F15 Core i7 RTX 3060 16GB
+0
+0.2
+11200.00
+10400.00 - 12000.00
+0,0.2,asus,tuf,tufdash,gaming,rtx3060
+489512000604
+
+0.2105
+Acer Nitro 16 Ryzen 7 RTX 4060 16GB
+0
+0.2
+15500.00
+14500.00 - 16600.00
+0,0.2,acer,nitro16,gaming,ryzen7,rtx4060
+694181000605
+
+0.2106
+MSI Alpha 17 Ryzen 9 RX 7900M 32GB 1TB
+0
+0.2
+2800.00
+26500.00 - 29800.00
+0,0.2,msi,alpha17,amd,gaming,rx7900m
+694181000606
+
+0.2107
+Lenovo V15 G4 Core i3 8GB 256GB
+0
+0.2
+3850.00
+3500.00 - 4150.00
+0,0.2,lenovo,lenovov15,g4,budget,office
+194253000607
+
+0.2108
+Dell Vostro 3520 Core i5 8GB 512GB
+0
+0.2
+5900.00
+5400.00 - 6300.00
+0,0.2,dell,vostro,vostro3520,smallbusiness
+880609000608
+
+0.2109
+HP 14s Core i3 12th Gen 8GB 512GB
+0
+0.2
+4600.00
+4200.00 - 4950.00
+0,0.2,hp,hp14s,corei3,student,compact
+194253000609
+
+0.2110
+Framework Laptop 13 Core Ultra 5 DIY Edition
+0
+0.2
+14500.00
+13500.00 - 15500.00
+0,0.2,framework,framework13,repairable,modular
+694181000610
+
+0.2111
+Apple MacBook Pro 16-inch M2 Max 32GB 1TB
+0
+0.2
+32500.00
+30500.00 - 34500.00
+0,0.2,apple,macbook,macbookpro,m2max,16inch
+194253000611
+
+0.2112
+Apple MacBook Pro 14-inch M2 Pro 16GB 512GB
+0
+0.2
+21500.00
+20000.00 - 23000.00
+0,0.2,apple,macbook,macbookpro,m2pro,macOS
+194253000612
+
+0.2113
+HP EliteBook 1040 G10 Core i7 16GB 1TB
+0
+0.2
+18500.00
+17400.00 - 19600.00
+0,0.2,hp,elitebook,1040g10,corei7,flagship
+194253000613
+
+0.2114
+HP EliteBook 840 G5 Core i5 8GB 256GB
+0
+0.2
+3600.00
+3200.00 - 3950.00
+0,0.2,hp,elitebook,840g5,corei5,refurbished
+194253000614
+
+0.2115
+HP ProBook 455 G10 Ryzen 7 16GB 512GB
+0
+0.2
+8900.00
+8300.00 - 9500.00
+0,0.2,hp,probook,455g10,ryzen7,office
+194253000615
+
+0.2116
+HP Victus 16 Core i7 RTX 4060 16GB 512GB
+0
+0.2
+15800.00
+14800.00 - 16800.00
+0,0.2,hp,victus,victus16,gaming,rtx4060
+194253000616
+
+0.2117
+HP Envy 17 Core i7 16GB 1TB Touch
+0
+0.2
+14500.00
+13600.00 - 15400.00
+0,0.2,hp,envy,envy17,touch,bigscreen
+194253000617
+
+0.2118
+Dell Latitude 7340 Core i7 16GB 512GB
+0
+0.2
+15800.00
+14800.00 - 16800.00
+0,0.2,dell,latitude,7340,compact,business
+880609000618
+
+0.2119
+Dell Latitude 5430 Core i5 16GB 256GB
+0
+0.2
+7800.00
+7200.00 - 8400.00
+0,0.2,dell,latitude,5430,corei5,office
+880609000619
+
+0.2120
+Dell Latitude 7490 Core i7 16GB 512GB
+0
+0.2
+3900.00
+3500.00 - 4250.00
+0,0.2,dell,latitude,7490,corei7,office
+880609000620
+
+0.2121
+Dell XPS 17 9730 Core i9 RTX 4080 32GB 1TB
+0
+0.2
+39500.00
+37500.00 - 42000.00
+0,0.2,dell,xps17,9730,workstation,rtx4080
+880609000621
+
+0.2122
+Dell Inspiron 14 2-in-1 Core i5 8GB 512GB Touch
+0
+0.2
+7600.00
+7100.00 - 8100.00
+0,0.2,dell,inspiron,2in1,touchscreen,convertible
+880609000622
+
+0.2123
+Dell G16 7630 Core i9 RTX 4070 16GB 1TB
+0
+0.2
+22800.00
+21500.00 - 24000.00
+0,0.2,dell,dellg16,gaming,rtx4070,corei9
+880609000623
+
+0.2124
+Lenovo ThinkPad P16 Gen 2 Core i7 RTX 2000 32GB
+0
+0.2
+28500.00
+27000.00 - 30000.00
+0,0.2,lenovo,thinkpad,p16,workstation,engineering
+194253000624
+
+0.2125
+Lenovo ThinkPad T14 Gen 3 Ryzen 7 16GB 512GB
+0
+0.2
+9500.00
+8900.00 - 10200.00
+0,0.2,lenovo,thinkpad,t14,ryzen7,business
+194253000625
+
+0.2126
+Lenovo ThinkPad X13 Gen 4 Core i5 16GB 512GB
+0
+0.2
+12800.00
+12000.00 - 13600.00
+0,0.2,lenovo,thinkpad,x13,ultrabook,compact
+194253000626
+
+0.2127
+Lenovo Yoga Pro 9i Core i9 RTX 4060 32GB 1TB
+0
+0.2
+24500.00
+23000.00 - 26000.00
+0,0.2,lenovo,yoga,yogapro9i,creator,miniled
+194253000627
+
+0.2128
+Lenovo LOQ 15 Ryzen 7 RTX 4050 16GB 512GB
+0
+0.2
+12500.00
+11700.00 - 13300.00
+0,0.2,lenovo,loq,loq15,ryzen7,gaming
+194253000628
+
+0.2129
+Asus ROG Zephyrus G16 Core Ultra 9 RTX 4080 32GB
+0
+0.2
+34500.00
+32500.00 - 36500.00
+0,0.2,asus,rog,zephyrus,g16,oled,gaming
+489512000629
+
+0.2130
+Asus ROG Flow Z13 Core i9 RTX 4060 Tablet Gaming
+0
+0.2
+23800.00
+22500.00 - 25000.00
+0,0.2,asus,rog,flowz13,gamingtablet,convertible
+489512000630
+
+0.2131
+Asus TUF Gaming A16 Advantage Edition RX 7600S
+0
+0.2
+13800.00
+12900.00 - 14600.00
+0,0.2,asus,tuf,tufa16,amd,rx7600s,gaming
+489512000631
+
+0.2132
+Asus ZenBook Duo (2024) Dual 14-inch OLED Ultra 7
+0
+0.2
+22500.00
+21000.00 - 24000.00
+0,0.2,asus,zenbook,duo,dualscreen,oled
+489512000632
+
+0.2133
+Asus VivoBook 16 Core i7 16GB 512GB
+0
+0.2
+7400.00
+6900.00 - 7900.00
+0,0.2,asus,vivobook,vivobook16,corei7,16inch
+489512000633
+
+0.2134
+Acer Predator Helios Neo 16 Core i7 RTX 4060
+0
+0.2
+16500.00
+15500.00 - 17500.00
+0,0.2,acer,predator,heliosneo,gaming,rtx4060
+694181000634
+
+0.2135
+Acer Swift Go 16 OLED Core i7 16GB 1TB
+0
+0.2
+12800.00
+12000.00 - 13600.00
+0,0.2,acer,swiftgo16,oled,corei7,thinandlight
+694181000635
+
+0.2136
+Acer Aspire 7 Core i5 GTX 1650 8GB 512GB
+0
+0.2
+6400.00
+5900.00 - 6900.00
+0,0.2,acer,aspire7,entrygaming,gtx1650
+694181000636
+
+0.2137
+MSI Raider GE78 HX Core i9 RTX 4090 64GB 2TB
+0
+0.2
+46000.00
+43500.00 - 48500.00
+0,0.2,msi,raider,ge78,rtx4090,flagshipgaming
+694181000637
+
+0.2138
+MSI Pulse 15 Core i7 RTX 4070 16GB 1TB
+0
+0.2
+18500.00
+17400.00 - 19500.00
+0,0.2,msi,pulse15,gaming,rtx4070,corei7
+694181000638
+
+0.2139
+MSI Commercial 14 H Core i7 16GB 512GB
+0
+0.2
+11200.00
+10500.00 - 11900.00
+0,0.2,msi,commercial14,business,security
+694181000639
+
+0.2140
+Infinix INBook Y1 Plus Core i3 8GB 512GB
+0
+0.2
+2950.00
+2700.00 - 3200.00
+0,0.2,infinix,inbook,y1plus,budget,student
+489512000640
+
+0.2141
+Tecno Megabook T1 AMD Ryzen 7 16GB 512GB
+0
+0.2
+4400.00
+4000.00 - 4750.00
+0,0.2,tecno,megabook,t1,ryzen7,slim
+489512000641
+
+0.2142
+Microsoft Surface Laptop Go 3 Core i5 8GB 256GB
+0
+0.2
+8200.00
+7600.00 - 8800.00
+0,0.2,microsoft,surface,laptopgo3,compact,touch
+840244000642
+
+0.2143
+Microsoft Surface Pro 10 for Business Core Ultra 7
+0
+0.2
+18500.00
+17400.00 - 19600.00
+0,0.2,microsoft,surface,surfacepro10,2in1,business
+840244000643
+
+0.2144
+Razer Blade 16 Core i9 RTX 4090 OLED 32GB 2TB
+0
+0.2
+42500.00
+40000.00 - 45000.00
+0,0.2,razer,razerblade16,oled,rtx4090,flagship
+694181000644
+
+0.2145
+Gigabyte AORUS 17H Core i7 RTX 4080 32GB 1TB
+0
+0.2
+27500.00
+26000.00 - 29000.00
+0,0.2,gigabyte,aorus17h,gaming,rtx4080,360hz
+694181000645
+
+0.2146
+Samsung Galaxy Book4 Ultra Core Ultra 9 RTX 4070
+0
+0.2
+29500.00
+28000.00 - 31000.00
+0,0.2,samsung,galaxybook4,ultra,amoled,rtx4070
+880609000646
+
+0.2147
+Samsung Galaxy Book4 Pro 360 Core Ultra 7 Touch
+0
+0.2
+18500.00
+17500.00 - 19500.00
+0,0.2,samsung,galaxybook4,360,amoled,pen
+880609000647
+
+0.2148
+LG Gram Pro 16 OLED Core Ultra 7 RTX 3050 32GB
+0
+0.2
+21500.00
+20000.00 - 23000.00
+0,0.2,lg,grampro,gram16,oled,ultralight
+694181000648
+
+0.2149
+HP ProBook 430 G8 Core i5 8GB 256GB
+0
+0.2
+4600.00
+4200.00 - 4950.00
+0,0.2,hp,probook,430g8,13inch,compact
+194253000649
+
+0.2150
+Dell Latitude 3540 Core i5 8GB 512GB
+0
+0.2
+7200.00
+6700.00 - 7700.00
+0,0.2,dell,latitude,3540,15inch,office
+880609000650
+
+0.2151
+Lenovo ThinkPad E16 Gen 1 Ryzen 7 16GB 512GB
+0
+0.2
+8800.00
+8200.00 - 9400.00
+0,0.2,lenovo,thinkpad,e16,ryzen7,office
+194253000651
+
+0.2152
+Asus ExpertBook B9 OLED Core i7 32GB 1TB
+0
+0.2
+18500.00
+17400.00 - 19600.00
+0,0.2,asus,expertbook,b9,oled,lightest
+489512000652
+
+0.2153
+Acer Chromebook Spin 514 Ryzen 5 8GB 128GB
+0
+0.2
+4800.00
+4400.00 - 5200.00
+0,0.2,acer,chromebook,spin514,touch,ryzen5
+694181000653
+
+0.2154
+MSI Creator Z17 HX Studio Core i9 RTX 4070 Touch
+0
+0.2
+31500.00
+29500.00 - 33500.00
+0,0.2,msi,creator,z17,pen,touch,rtx4070
+694181000654
+
+0.2155
+Dell Precision 3480 Core i7 RTX A500 16GB
+0
+0.2
+15500.00
+14500.00 - 16500.00
+0,0.2,dell,precision,3480,entryworkstation
+880609000655
+
+0.2156
+HP ZBook Studio G10 Core i9 RTX 4080 32GB
+0
+0.2
+36500.00
+34500.00 - 38500.00
+0,0.2,hp,zbook,zbookstudio,rtx4080,creator
+194253000656
+
+0.2157
+Lenovo ThinkPad L15 Gen 4 Core i7 16GB 512GB
+0
+0.2
+9800.00
+9100.00 - 10500.00
+0,0.2,lenovo,thinkpad,l15,corei7,business
+194253000657
+
+0.2158
+Asus ROG Strix G18 Core i9 RTX 4080 32GB 1TB
+0
+0.2
+32800.00
+31000.00 - 34500.00
+0,0.2,asus,rog,strixg18,18inch,rtx4080
+489512000658
+
+0.2159
+Fujitsu LifeBook U9311 Core i7 16GB 512GB LTE
+0
+0.2
+12500.00
+11600.00 - 13400.00
+0,0.2,fujitsu,lifebook,u9311,japan,ultralight
+694181000659
+
+0.2160
+Panasonic Toughbook 55 Rugged Core i5 16GB 512GB
+0
+0.2
+26500.00
+25000.00 - 28000.00
+0,0.2,panasonic,toughbook55,rugged,industrial
+694181000660
+
+0.2161
+Dell Latitude 5410 Core i5 8GB 256GB
+0
+0.2
+4200.00
+3800.00 - 4550.00
+0,0.2,dell,latitude,5410,corei5,office
+880609000661
+
+0.2162
+HP Pavilion Plus 14 OLED Ryzen 7 16GB 1TB
+0
+0.2
+9800.00
+9100.00 - 10500.00
+0,0.2,hp,pavilionplus,oled,ryzen7,120hz
+194253000662
+
+0.2163
+Lenovo ThinkBook 14s Yoga Gen 3 Core i7 Touch
+0
+0.2
+10500.00
+9800.00 - 11200.00
+0,0.2,lenovo,thinkbook,14syoga,touch,pen
+194253000663
+
+0.2164
+Asus TUF Gaming F17 Core i7 RTX 4050 16GB
+0
+0.2
+13500.00
+12600.00 - 14400.00
+0,0.2,asus,tuf,tuff17,17inch,gaming
+489512000664
+
+0.2165
+Acer Nitro 5 Ryzen 7 RTX 3060 16GB 512GB
+0
+0.2
+10800.00
+10000.00 - 11600.00
+0,0.2,acer,nitro5,ryzen7,rtx3060,gaming
+694181000665
+
+0.2166
+MSI Summit E16 Flip Core i7 RTX 4050 Touch
+0
+0.2
+16500.00
+15500.00 - 17500.00
+0,0.2,msi,summit,e16flip,touch,2in1
+694181000666
+
+0.2167
+Clevo NH55 Gaming Barebone Core i7 RTX 4060
+0
+0.2
+12800.00
+11900.00 - 13600.00
+0,0.2,clevo,nh55,barebone,customgaming
+694181000667
+
+0.2168
+Chuwi HeroBook Pro N4020 8GB 256GB
+0
+0.2
+2400.00
+2150.00 - 2650.00
+0,0.2,chuwi,herobookpro,budget,entry,student
+694181000668
+
+0.2169
+Schenker XMG NEO 16 Core i9 RTX 4080 Water Cooled
+0
+0.2
+34500.00
+32500.00 - 36500.00
+0,0.2,xmg,xmgneo16,watercooled,rtx4080
+694181000669
+
+0.2170
+Honor MagicBook X 16 Core i5 16GB 512GB
+0
+0.2
+5600.00
+5100.00 - 6100.00
+0,0.2,honor,magicbook,x16,corei5,metal
+694181000670
+
+0.2171
+Apple MacBook Pro 14-inch M1 Pro 16GB 512GB
+0
+0.2
+14500.00
+13500.00 - 15500.00
+0,0.2,apple,macbook,macbookpro,m1pro,macOS
+194253000671
+
+0.2172
+Apple MacBook Pro 16-inch M1 Max 32GB 1TB
+0
+0.2
+22500.00
+21000.00 - 24000.00
+0,0.2,apple,macbook,macbookpro,m1max,16inch
+194253000672
+
+0.2173
+HP EliteBook 860 G10 Core i7 16GB 1TB
+0
+0.2
+16800.00
+15800.00 - 17800.00
+0,0.2,hp,elitebook,860g10,corei7,16inch
+194253000673
+
+0.2174
+HP EliteBook x360 1040 G8 Core i7 Touch
+0
+0.2
+8900.00
+8200.00 - 9600.00
+0,0.2,hp,elitebook,x360,1040g8,touch
+194253000674
+
+0.2175
+HP ProBook 445 G9 Ryzen 5 8GB 256GB
+0
+0.2
+5600.00
+5100.00 - 6100.00
+0,0.2,hp,probook,445g9,ryzen5,office
+194253000675
+
+0.2176
+HP Dragonfly G4 Core i7 16GB 512GB
+0
+0.2
+19500.00
+18500.00 - 20800.00
+0,0.2,hp,dragonfly,dragonflyg4,ultrabook,business
+194253000676
+
+0.2177
+HP Pavilion 14 Core i5 12th Gen 8GB 512GB
+0
+0.2
+5800.00
+5300.00 - 6300.00
+0,0.2,hp,pavilion14,corei5,student,compact
+194253000677
+
+0.2178
+Dell Latitude 9440 2-in-1 Core i7 32GB 512GB
+0
+0.2
+24500.00
+23000.00 - 26000.00
+0,0.2,dell,latitude,9440,2in1,flagship
+880609000678
+
+0.2179
+Dell Latitude 5340 Core i5 16GB 512GB
+0
+0.2
+11800.00
+11000.00 - 12600.00
+0,0.2,dell,latitude,5340,13inch,compact
+880609000679
+
+0.2180
+Dell Latitude 7320 Core i7 16GB 256GB
+0
+0.2
+6400.00
+5900.00 - 6900.00
+0,0.2,dell,latitude,7320,corei7,ultrabook
+880609000680
+
+0.2181
+Dell XPS 14 9440 Core Ultra 7 RTX 4050 16GB
+0
+0.2
+26800.00
+25200.00 - 28500.00
+0,0.2,dell,xps14,9440,oled,rtx4050
+880609000681
+
+0.2182
+Dell Inspiron 16 5630 Core i7 16GB 512GB
+0
+0.2
+8900.00
+8300.00 - 9500.00
+0,0.2,dell,inspiron16,5630,corei7,16inch
+880609000682
+
+0.2183
+Dell Alienware x16 R2 Core i9 RTX 4080 32GB
+0
+0.2
+37500.00
+35500.00 - 39500.00
+0,0.2,dell,alienware,x16r2,rtx4080,premiumgaming
+880609000683
+
+0.2184
+Lenovo ThinkPad X1 Nano Gen 3 Core i7 16GB
+0
+0.2
+18500.00
+17400.00 - 19600.00
+0,0.2,lenovo,thinkpad,x1nano,featherweight,ultrabook
+194253000684
+
+0.2185
+Lenovo ThinkPad T16 Gen 2 Core i7 16GB 512GB
+0
+0.2
+13500.00
+12600.00 - 14400.00
+0,0.2,lenovo,thinkpad,t16,16inch,business
+194253000685
+
+0.2186
+Lenovo ThinkPad E14 Gen 4 Ryzen 5 8GB 256GB
+0
+0.2
+5400.00
+4950.00 - 5850.00
+0,0.2,lenovo,thinkpad,e14gen4,ryzen5,office
+194253000686
+
+0.2187
+Lenovo Yoga Book 9i Dual Screen OLED Core i7
+0
+0.2
+27500.00
+26000.00 - 29000.00
+0,0.2,lenovo,yogabook9i,dualscreen,oled,innovative
+194253000687
+
+0.2188
+Lenovo LOQ 16 Ryzen 7 RTX 4060 16GB 1TB
+0
+0.2
+14800.00
+13900.00 - 15700.00
+0,0.2,lenovo,loq16,ryzen7,rtx4060,gaming
+194253000688
+
+0.2189
+Asus ROG Strix G17 Ryzen 9 RTX 4070 16GB
+0
+0.2
+21500.00
+20000.00 - 23000.00
+0,0.2,asus,rog,strixg17,ryzen9,rtx4070
+489512000689
+
+0.2190
+Asus ROG Ally X Handheld Gaming Laptop Z1 Extreme
+0
+0.2
+11200.00
+10500.00 - 12000.00
+0,0.2,asus,rog,rogallyx,handheld,z1extreme
+489512000690
+
+0.2191
+Asus TUF Gaming A15 Ryzen 5 RTX 3050 8GB
+0
+0.2
+9800.00
+9200.00 - 10500.00
+0,0.2,asus,tuf,tufa15,ryzen5,rtx3050
+489512000691
+
+0.2192
+Asus ZenBook S 13 OLED Core Ultra 7 16GB 1TB
+0
+0.2
+16500.00
+15500.00 - 17500.00
+0,0.2,asus,zenbook,s13,oled,thinnest
+489512000692
+
+0.2193
+Asus VivoBook S 15 OLED Snapdragon X Elite 16GB
+0
+0.2
+15800.00
+14800.00 - 16800.00
+0,0.2,asus,vivobook,snapdragon,copilot,arm
+489512000693
+
+0.2194
+Acer Predator Helios 18 Core i9 RTX 4090 32GB 2TB
+0
+0.2
+44000.00
+41500.00 - 46500.00
+0,0.2,acer,predator,helios18,18inch,rtx4090
+694181000694
+
+0.2195
+Acer Swift Edge 16 OLED Ryzen 7 16GB 1TB
+0
+0.2
+13200.00
+12400.00 - 14000.00
+0,0.2,acer,swiftedge16,oled,ryzen7,ultralight
+694181000695
+
+0.2196
+Acer Chromebook Plus 515 Core i3 8GB 128GB
+0
+0.2
+4600.00
+4200.00 - 4950.00
+0,0.2,acer,chromebookplus,515,chromeOS,office
+694181000696
+
+0.2197
+MSI Titan 18 HX Core i9 RTX 4090 128GB 4TB
+0
+0.2
+62000.00
+58000.00 - 65000.00
+0,0.2,msi,titan18hx,4k,rtx4090,extremegaming
+694181000697
+
+0.2198
+MSI Bravo 15 Ryzen 7 RX 6550M 16GB 512GB
+0
+0.2
+8900.00
+8300.00 - 9500.00
+0,0.2,msi,bravo15,amd,rx6550m,budgetgaming
+694181000698
+
+0.2199
+MSI Modern 15 Core i7 16GB 512GB
+0
+0.2
+6800.00
+6300.00 - 7300.00
+0,0.2,msi,modern15,corei7,office,15inch
+694181000699
+
+0.2200
+Infinix INBook X2 Slim Core i3 8GB 256GB
+0
+0.2
+2850.00
+2600.00 - 3100.00
+0,0.2,infinix,inbookx2,slim,corei3,budget
+489512000700
+
+0.2201
+Tecno Megabook T11 Core i5 16GB 512GB
+0
+0.2
+4200.00
+3850.00 - 4550.00
+0,0.2,tecno,megabook,t11,corei5,student
+489512000701
+
+0.2202
+Microsoft Surface Laptop 6 for Business Core Ultra 5
+0
+0.2
+16200.00
+15200.00 - 17200.00
+0,0.2,microsoft,surface,surfacelaptop6,business,coreultra
+840244000702
+
+0.2203
+Microsoft Surface Pro 11 Snapdragon X Elite OLED
+0
+0.2
+19800.00
+18600.00 - 21000.00
+0,0.2,microsoft,surface,surfacepro11,oled,arm
+840244000703
+
+0.2204
+Razer Blade 18 Core i9 RTX 4090 64GB 2TB 200Hz
+0
+0.2
+48500.00
+46000.00 - 51000.00
+0,0.2,razer,razerblade18,18inch,rtx4090,flagship
+694181000704
+
+0.2205
+Gigabyte AERO 16 OLED Core i9 RTX 4070 32GB
+0
+0.2
+25500.00
+24000.00 - 27000.00
+0,0.2,gigabyte,aero16,oled,creator,rtx4070
+694181000705
+
+0.2206
+Samsung Galaxy Book4 Edge Snapdragon X Elite 16GB
+0
+0.2
+17500.00
+16400.00 - 18600.00
+0,0.2,samsung,galaxybook4,edge,copilot,arm
+880609000706
+
+0.2207
+Samsung Galaxy Book2 Pro 360 Core i7 16GB 512GB
+0
+0.2
+12500.00
+11600.00 - 13400.00
+0,0.2,samsung,galaxybook2,360,amoled,touch
+880609000707
+
+0.2208
+LG Gram SuperSlim 15 OLED Core i7 16GB 512GB
+0
+0.2
+16800.00
+15800.00 - 17800.00
+0,0.2,lg,gram,superslim,oled,ultraportable
+694181000708
+
+0.2209
+HP ZBook Studio G9 Core i7 RTX 3070 Ti 32GB
+0
+0.2
+21500.00
+20000.00 - 23000.00
+0,0.2,hp,zbook,g9,workstation,rtx3070ti
+194253000709
+
+0.2210
+Dell Precision 7680 Core i9 RTX 3500 Ada 64GB
+0
+0.2
+38500.00
+36500.00 - 41000.00
+0,0.2,dell,precision,7680,ada,workstation
+880609000710
+
+0.2211
+Lenovo ThinkPad Z16 Gen 2 Ryzen 7 PRO 32GB 1TB
+0
+0.2
+22500.00
+21000.00 - 24000.00
+0,0.2,lenovo,thinkpad,z16,ryzen7,executive
+194253000711
+
+0.2212
+Asus ProArt P16 Ryzen AI 9 RTX 4070 32GB OLED
+0
+0.2
+28500.00
+27000.00 - 30000.00
+0,0.2,asus,proart,p16,ryzenai,oled,creator
+489512000712
+
+0.2213
+Acer Nitro 17 Core i7 RTX 4060 16GB 1TB
+0
+0.2
+16200.00
+15200.00 - 17200.00
+0,0.2,acer,nitro17,17inch,rtx4060,gaming
+694181000713
+
+0.2214
+MSI Vector GP68 HX Core i9 RTX 4080 32GB
+0
+0.2
+29500.00
+28000.00 - 31000.00
+0,0.2,msi,vector,gp68hx,rtx4080,performance
+694181000714
+
+0.2215
+Fujitsu LifeBook E5411 Core i5 8GB 256GB
+0
+0.2
+6200.00
+5700.00 - 6700.00
+0,0.2,fujitsu,lifebook,e5411,office,business
+694181000715
+
+0.2216
+Panasonic Toughbook 40 Fully Rugged Core i7
+0
+0.2
+38000.00
+36000.00 - 40500.00
+0,0.2,panasonic,toughbook40,fullyrugged,military
+694181000716
+
+0.2217
+Dell Latitude 3330 2-in-1 Core i5 8GB 256GB
+0
+0.2
+5900.00
+5400.00 - 6400.00
+0,0.2,dell,latitude,3330,2in1,education
+880609000717
+
+0.2218
+HP Envy 16 Core i9 RTX 4060 32GB 1TB
+0
+0.2
+18500.00
+17400.00 - 19600.00
+0,0.2,hp,envy16,corei9,rtx4060,creator
+194253000718
+
+0.2219
+Lenovo ThinkBook 16p Gen 4 Core i9 RTX 4060 32GB
+0
+0.2
+19500.00
+18400.00 - 20600.00
+0,0.2,lenovo,thinkbook,16p,corei9,rtx4060
+194253000719
+
+0.2220
+Asus TUF Gaming A14 Ryzen 7 RTX 4060 16GB
+0
+0.2
+14800.00
+13900.00 - 15700.00
+0,0.2,asus,tuf,tufa14,14inch,compactgaming
+489512000720
+
+0.2221
+Acer TravelMate P4 Core i7 16GB 512GB
+0
+0.2
+8900.00
+8300.00 - 9500.00
+0,0.2,acer,travelmate,p4,corei7,business
+694181000721
+
+0.2222
+MSI Claw A1M Handheld Gaming Core Ultra 7
+0
+0.2
+9800.00
+9100.00 - 10500.00
+0,0.2,msi,claw,handheld,coreultra,gaming
+694181000722
+
+0.2223
+Chuwi FreeBook 360 Touch Core i3 12GB 512GB
+0
+0.2
+3400.00
+3100.00 - 3750.00
+0,0.2,chuwi,freebook,2in1,touch,budget
+694181000723
+
+0.2224
+Framework Laptop 16 Ryzen 7 RX 7700S Modular
+0
+0.2
+22500.00
+21000.00 - 24000.00
+0,0.2,framework,framework16,modular,gaming
+694181000724
+
+0.2225
+Honor MagicBook Pro 16 Core Ultra 5 RTX 3050
+0
+0.2
+12800.00
+12000.00 - 13600.00
+0,0.2,honor,magicbookpro16,coreultra,rtx3050
+694181000725
+
+0.2226
+Dell Inspiron 14 Plus Core Ultra 7 16GB 1TB
+0
+0.2
+11500.00
+10700.00 - 12300.00
+0,0.2,dell,inspiron14plus,coreultra,portable
+880609000726
+
+0.2227
+HP Chromebook Enterprise 14 G7 Core i5 8GB
+0
+0.2
+4800.00
+4400.00 - 5200.00
+0,0.2,hp,chromebook,enterprise,chromeOS
+194253000727
+
+0.2228
+Lenovo Yoga Slim 6 Ryzen 7 16GB 512GB OLED
+0
+0.2
+9200.00
+8600.00 - 9800.00
+0,0.2,lenovo,yoga,yogaslim6,oled,ryzen7
+194253000728
+
+0.2229
+Asus Vivobook S 14 OLED Core Ultra 5 16GB 512GB
+0
+0.2
+10800.00
+10000.00 - 11600.00
+0,0.2,asus,vivobook,vivobooks14,oled,coreultra
+489512000729
+
+0.2230
+Getac S410 Semi-Rugged Core i7 16GB 512GB
+0
+0.2
+28500.00
+27000.00 - 30000.00
+0,0.2,getac,s410,semirugged,fieldwork
+694181000730
+
+0.2231
+Apple MacBook Air M4 13-inch 256GB
+0
+0.2
+14800.00
+13800.00 - 15800.00
+0,0.2,apple,macbook,macbookair,m4,macOS
+194253000731
+
+0.2232
+Apple MacBook Air M4 15-inch 512GB
+0
+0.2
+18900.00
+17800.00 - 20000.00
+0,0.2,apple,macbook,macbookair,m4,15inch
+194253000732
+
+0.2233
+Apple MacBook Pro 14-inch M4 16GB 512GB
+0
+0.2
+23500.00
+22000.00 - 25000.00
+0,0.2,apple,macbook,macbookpro,m4,pro
+194253000733
+
+0.2234
+Apple MacBook Pro 16-inch M4 Pro 24GB 512GB
+0
+0.2
+33500.00
+31500.00 - 35500.00
+0,0.2,apple,macbook,macbookpro,m4pro,16inch
+194253000734
+
+0.2235
+HP EliteBook 840 G11 Core Ultra 7 16GB 512GB
+0
+0.2
+16900.00
+15800.00 - 18000.00
+0,0.2,hp,elitebook,840g11,coreultra,business
+194253000735
+
+0.2236
+HP EliteBook 830 G8 Core i7 16GB 512GB
+0
+0.2
+5600.00
+5100.00 - 6100.00
+0,0.2,hp,elitebook,830g8,corei7,compact
+194253000736
+
+0.2237
+HP ProBook 450 G9 Core i5 8GB 512GB
+0
+0.2
+6200.00
+5700.00 - 6700.00
+0,0.2,hp,probook,450g9,corei5,office
+194253000737
+
+0.2238
+HP Pavilion 15 Ryzen 7 16GB 512GB
+0
+0.2
+7200.00
+6700.00 - 7800.00
+0,0.2,hp,pavilion15,ryzen7,student,office
+194253000738
+
+0.2239
+HP Victus 15 Core i5 RTX 3050 8GB 512GB
+0
+0.2
+11200.00
+10400.00 - 12000.00
+0,0.2,hp,victus15,gaming,rtx3050,entrygaming
+194253000739
+
+0.2240
+Dell XPS 13 9340 Core Ultra 5 8GB 512GB
+0
+0.2
+15500.00
+14500.00 - 16500.00
+0,0.2,dell,xps13,9340,ultrabook,coreultra
+880609000740
+
+0.2241
+Dell Latitude 5530 Core i7 16GB 512GB
+0
+0.2
+9800.00
+9100.00 - 10500.00
+0,0.2,dell,latitude,5530,15inch,business
+880609000741
+
+0.2242
+Dell Latitude 7400 Core i7 16GB 256GB
+0
+0.2
+4200.00
+3800.00 - 4600.00
+0,0.2,dell,latitude,7400,corei7,office
+880609000742
+
+0.2243
+Dell Inspiron 15 3530 Core i7 16GB 512GB
+0
+0.2
+8200.00
+7600.00 - 8800.00
+0,0.2,dell,inspiron15,3530,corei7,student
+880609000743
+
+0.2244
+Dell Alienware m18 R2 Core i9 RTX 4090 32GB 2TB
+0
+0.2
+49500.00
+47000.00 - 52000.00
+0,0.2,dell,alienware,m18r2,18inch,rtx4090
+880609000744
+
+0.2245
+Lenovo ThinkPad T14 Gen 4 Core i5 16GB 512GB
+0
+0.2
+12500.00
+11600.00 - 13400.00
+0,0.2,lenovo,thinkpad,t14gen4,corei5,business
+194253000745
+
+0.2246
+Lenovo ThinkPad E14 Gen 3 Ryzen 5 8GB 256GB
+0
+0.2
+4600.00
+4200.00 - 4950.00
+0,0.2,lenovo,thinkpad,e14gen3,ryzen5,budget
+194253000746
+
+0.2247
+Lenovo Yoga Slim 7i Aura Edition Core Ultra 7
+0
+0.2
+19500.00
+18400.00 - 20600.00
+0,0.2,lenovo,yoga,slim7i,aura,copilot
+194253000747
+
+0.2248
+Lenovo IdeaPad Gaming 3 Ryzen 5 RTX 3050 8GB
+0
+0.2
+9200.00
+8500.00 - 9900.00
+0,0.2,lenovo,ideapadgaming3,ryzen5,rtx3050
+194253000748
+
+0.2249
+Lenovo Legion 7i Core i9 RTX 4080 32GB 1TB
+0
+0.2
+33500.00
+31500.00 - 35500.00
+0,0.2,lenovo,legion7i,corei9,rtx4080,flagship
+194253000749
+
+0.2250
+Asus ROG Zephyrus M16 Core i9 RTX 4070 16GB
+0
+0.2
+25800.00
+24500.00 - 27200.00
+0,0.2,asus,rog,zephyrusm16,rtx4070,gaming
+489512000750
+
+0.2251
+Asus TUF Gaming A15 Ryzen 9 RTX 4060 16GB
+0
+0.2
+15200.00
+14200.00 - 16200.00
+0,0.2,asus,tuf,tufa15,ryzen9,rtx4060
+489512000751
+
+0.2252
+Asus ZenBook 14X OLED Core i9 16GB 1TB Touch
+0
+0.2
+16800.00
+15800.00 - 17800.00
+0,0.2,asus,zenbook14x,oled,touch,corei9
+489512000752
+
+0.2253
+Asus VivoBook 14 Core i3 8GB 256GB
+0
+0.2
+3950.00
+3650.00 - 4300.00
+0,0.2,asus,vivobook14,corei3,student,budget
+489512000753
+
+0.2254
+Acer Nitro V 16 Ryzen 7 RTX 4060 16GB 512GB
+0
+0.2
+14500.00
+13500.00 - 15500.00
+0,0.2,acer,nitrov16,ryzen7,rtx4060,gaming
+694181000754
+
+0.2255
+Acer Aspire Spin 14 Touch Core i5 8GB 512GB
+0
+0.2
+6800.00
+6300.00 - 7300.00
+0,0.2,acer,aspirespin14,touch,convertible
+694181000755
+
+0.2256
+Acer Swift Go 14 Snapdragon X Plus 16GB
+0
+0.2
+12500.00
+11600.00 - 13400.00
+0,0.2,acer,swiftgo14,snapdragon,copilot,thin
+694181000756
+
+0.2257
+MSI Pulse 17 Core i7 RTX 4070 16GB 1TB
+0
+0.2
+19800.00
+18600.00 - 21000.00
+0,0.2,msi,pulse17,17inch,rtx4070,gaming
+694181000757
+
+0.2258
+MSI Thin 15 Core i7 RTX 4050 16GB 512GB
+0
+0.2
+11800.00
+11000.00 - 12600.00
+0,0.2,msi,thin15,rtx4050,budgetgaming
+694181000758
+
+0.2259
+MSI Modern 14 Ryzen 5 8GB 512GB
+0
+0.2
+4600.00
+4200.00 - 5000.00
+0,0.2,msi,modern14,ryzen5,office,compact
+694181000759
+
+0.2260
+Infinix INBook Y4 Max Core i7 16GB 512GB
+0
+0.2
+4950.00
+4500.00 - 5350.00
+0,0.2,infinix,inbooky4max,corei7,16inch
+489512000760
+
+0.2261
+Tecno Megabook T1 15.6 Core i5 8GB 512GB
+0
+0.2
+3700.00
+3400.00 - 4000.00
+0,0.2,tecno,megabook,t1,corei5,student
+489512000761
+
+0.2262
+Microsoft Surface Laptop 7 Snapdragon X Elite
+0
+0.2
+18500.00
+17400.00 - 19600.00
+0,0.2,microsoft,surface,surfacelaptop7,copilot,arm
+840244000762
+
+0.2263
+Razer Blade 14 Ryzen 9 RTX 4060 16GB 1TB
+0
+0.2
+24500.00
+23000.00 - 26000.00
+0,0.2,razer,razerblade14,rtx4060,portablegaming
+694181000763
+
+0.2264
+Gigabyte G6 KF Core i7 RTX 4060 16GB 512GB
+0
+0.2
+14200.00
+13200.00 - 15200.00
+0,0.2,gigabyte,g6kf,16inch,rtx4060,gaming
+694181000764
+
+0.2265
+Samsung Galaxy Book4 15 Core i5 8GB 512GB
+0
+0.2
+8900.00
+8200.00 - 9600.00
+0,0.2,samsung,galaxybook4,corei5,office
+880609000765
+
+0.2266
+Samsung Galaxy Book3 Ultra Core i9 RTX 4070 32GB
+0
+0.2
+26500.00
+25000.00 - 28000.00
+0,0.2,samsung,galaxybook3ultra,amoled,rtx4070
+880609000766
+
+0.2267
+LG Gram 16 2-in-1 Core i7 16GB 1TB Touch
+0
+0.2
+17800.00
+16800.00 - 18900.00
+0,0.2,lg,gram16,2in1,touch,pen
+694181000767
+
+0.2268
+HP ProBook 440 G8 Core i7 16GB 512GB
+0
+0.2
+6400.00
+5900.00 - 6900.00
+0,0.2,hp,probook,440g8,corei7,business
+194253000768
+
+0.2269
+Dell Latitude 3420 Core i5 8GB 256GB
+0
+0.2
+4800.00
+4400.00 - 5200.00
+0,0.2,dell,latitude,3420,corei5,office
+880609000769
+
+0.2270
+Lenovo ThinkPad P15 Gen 2 Core i7 RTX A2000 32GB
+0
+0.2
+16500.00
+15500.00 - 17600.00
+0,0.2,lenovo,thinkpad,p15gen2,workstation,quadro
+194253000770
+
+0.2271
+Asus ExpertBook B5 Core i7 16GB 512GB
+0
+0.2
+11500.00
+10700.00 - 12300.00
+0,0.2,asus,expertbook,b5,business,lightweight
+489512000771
+
+0.2272
+Acer Enduro Urban N3 Rugged Core i5 8GB
+0
+0.2
+7800.00
+7200.00 - 8400.00
+0,0.2,acer,enduro,n3,rugged,outdoor
+694181000772
+
+0.2273
+MSI Stealth 14 Studio Core i7 RTX 4060 16GB
+0
+0.2
+19500.00
+18400.00 - 20600.00
+0,0.2,msi,stealth14,studio,rtx4060,compact
+694181000773
+
+0.2274
+Dell Precision 3581 Core i7 RTX A1000 16GB
+0
+0.2
+18500.00
+17400.00 - 19600.00
+0,0.2,dell,precision,3581,workstation,cad
+880609000774
+
+0.2275
+HP ZBook Firefly 14 G10 Core i7 16GB 512GB
+0
+0.2
+15800.00
+14800.00 - 16800.00
+0,0.2,hp,zbook,firefly14,workstation,compact
+194253000775
+
+0.2276
+Lenovo ThinkPad L13 Yoga Gen 4 Core i5 Touch
+0
+0.2
+10800.00
+10000.00 - 11600.00
+0,0.2,lenovo,thinkpad,l13yoga,2in1,touch
+194253000776
+
+0.2277
+Asus ROG Strix G16 Core i9 RTX 4070 32GB 1TB
+0
+0.2
+23500.00
+22000.00 - 25000.00
+0,0.2,asus,rog,strixg16,corei9,rtx4070
+489512000777
+
+0.2278
+Fujitsu LifeBook U7411 Core i7 16GB 512GB
+0
+0.2
+9800.00
+9100.00 - 10500.00
+0,0.2,fujitsu,lifebook,u7411,office,business
+694181000778
+
+0.2279
+Panasonic Toughbook 33 2-in-1 Detachable Core i5
+0
+0.2
+32000.00
+30000.00 - 34000.00
+0,0.2,panasonic,toughbook33,detachable,rugged
+694181000779
+
+0.2280
+Dell Latitude 5400 Core i5 8GB 256GB
+0
+0.2
+3800.00
+3400.00 - 4150.00
+0,0.2,dell,latitude,5400,corei5,office
+880609000780
+
+0.2281
+HP Pavilion Aero 13 Ryzen 7 16GB 512GB
+0
+0.2
+8900.00
+8200.00 - 9600.00
+0,0.2,hp,pavilionaero13,ryzen7,lightest
+194253000781
+
+0.2282
+Lenovo ThinkBook 13s Gen 4 Core i5 8GB 256GB
+0
+0.2
+6800.00
+6300.00 - 7300.00
+0,0.2,lenovo,thinkbook,13sgen4,compact,office
+194253000782
+
+0.2283
+Asus TUF Gaming F15 Core i5 RTX 3050 8GB
+0
+0.2
+9500.00
+8800.00 - 10200.00
+0,0.2,asus,tuf,tuff15,corei5,rtx3050
+489512000783
+
+0.2284
+Acer Nitro 5 Core i7 RTX 3070 Ti 16GB 1TB
+0
+0.2
+14800.00
+13900.00 - 15700.00
+0,0.2,acer,nitro5,corei7,rtx3070ti,gaming
+694181000784
+
+0.2285
+MSI Crosshair 16 HX Core i7 RTX 4070 16GB
+0
+0.2
+19800.00
+18600.00 - 21000.00
+0,0.2,msi,crosshair16,rtx4070,gaming
+694181000785
+
+0.2286
+Chuwi GemiBook XPro N100 8GB 256GB
+0
+0.2
+2200.00
+1950.00 - 2450.00
+0,0.2,chuwi,gemibook,n100,budget,student
+694181000786
+
+0.2287
+Schenker XMG FOCUS 15 Core i7 RTX 4060
+0
+0.2
+16500.00
+15500.00 - 17500.00
+0,0.2,xmg,focus15,rtx4060,gaming
+694181000787
+
+0.2288
+Honor MagicBook 14 Ryzen 5 8GB 512GB
+0
+0.2
+4950.00
+4500.00 - 5350.00
+0,0.2,honor,magicbook14,ryzen5,metal
+694181000788
+
+0.2289
+Dell Inspiron 16 Plus Core i7 RTX 4050 16GB
+0
+0.2
+13800.00
+12900.00 - 14600.00
+0,0.2,dell,inspiron16plus,rtx4050,creator
+880609000789
+
+0.2290
+HP Chromebook 14 G6 Celeron 4GB 32GB
+0
+0.2
+1950.00
+1750.00 - 2150.00
+0,0.2,hp,chromebook,14g6,entry,chromeOS
+194253000790
+
+0.2291
+Apple MacBook Pro 16-inch M4 Max 36GB 1TB
+0
+0.2
+42500.00
+40000.00 - 45000.00
+0,0.2,apple,macbook,macbookpro,m4max,workstation
+194253000791
+
+0.2292
+Apple MacBook Pro 14-inch M4 Pro 24GB 1TB
+0
+0.2
+28500.00
+27000.00 - 30000.00
+0,0.2,apple,macbook,macbookpro,m4pro,creator
+194253000792
+
+0.2293
+HP ZBook Studio G11 Core Ultra 9 RTX 4070 32GB
+0
+0.2
+32500.00
+30500.00 - 34500.00
+0,0.2,hp,zbook,studiog11,workstation,rtx4070
+194253000793
+
+0.2294
+HP EliteBook 640 G10 Core i5 16GB 512GB
+0
+0.2
+9200.00
+8600.00 - 9800.00
+0,0.2,hp,elitebook,640g10,corei5,business
+194253000794
+
+0.2295
+HP ProBook 440 G11 Core Ultra 7 16GB 512GB
+0
+0.2
+10800.00
+10000.00 - 11600.00
+0,0.2,hp,probook,440g11,coreultra,office
+194253000795
+
+0.2296
+HP OmniBook X AI PC Snapdragon X Elite 16GB 1TB
+0
+0.2
+16800.00
+15800.00 - 17800.00
+0,0.2,hp,omnibook,omnibookx,copilot,arm
+194253000796
+
+0.2297
+HP Victus 16 Ryzen 7 RTX 4070 16GB 1TB
+0
+0.2
+18200.00
+17200.00 - 19200.00
+0,0.2,hp,victus16,ryzen7,rtx4070,gaming
+194253000797
+
+0.2298
+Dell Latitude 7640 Core i7 16GB 512GB
+0
+0.2
+16500.00
+15500.00 - 17500.00
+0,0.2,dell,latitude,7640,16inch,business
+880609000798
+
+0.2299
+Dell Latitude 5450 Core Ultra 5 16GB 512GB
+0
+0.2
+12800.00
+12000.00 - 13600.00
+0,0.2,dell,latitude,5450,coreultra,office
+880609000799
+
+0.2300
+Dell Latitude 7410 Core i7 16GB 512GB
+0
+0.2
+5400.00
+4900.00 - 5900.00
+0,0.2,dell,latitude,7410,corei7,office
+880609000800
+
+0.2301
+Dell XPS 16 9640 Core Ultra 9 RTX 4070 32GB 1TB
+0
+0.2
+34500.00
+32500.00 - 36500.00
+0,0.2,dell,xps16,9640,oled,rtx4070,creator
+880609000801
+
+0.2302
+Dell Inspiron 14 5430 Core i7 16GB 512GB
+0
+0.2
+8500.00
+7900.00 - 9100.00
+0,0.2,dell,inspiron14,5430,corei7,compact
+880609000802
+
+0.2303
+Dell Alienware m16 R1 Ryzen 9 RTX 4080 32GB
+0
+0.2
+31500.00
+29500.00 - 33500.00
+0,0.2,dell,alienware,m16r1,ryzen9,rtx4080
+880609000803
+
+0.2304
+Lenovo ThinkPad P1 Gen 6 Core i9 RTX 4080 32GB
+0
+0.2
+38500.00
+36500.00 - 41000.00
+0,0.2,lenovo,thinkpad,p1gen6,workstation,rtx4080
+194253000804
+
+0.2305
+Lenovo ThinkPad T14s Gen 5 Core Ultra 7 16GB
+0
+0.2
+16200.00
+15200.00 - 17200.00
+0,0.2,lenovo,thinkpad,t14sgen5,coreultra,ultrabook
+194253000805
+
+0.2306
+Lenovo ThinkPad E16 Gen 2 Core Ultra 5 16GB
+0
+0.2
+9500.00
+8900.00 - 10200.00
+0,0.2,lenovo,thinkpad,e16gen2,coreultra,office
+194253000806
+
+0.2307
+Lenovo Yoga Slim 7x Snapdragon X Elite 16GB 1TB
+0
+0.2
+16500.00
+15500.00 - 17500.00
+0,0.2,lenovo,yoga,slim7x,copilot,oled,arm
+194253000807
+
+0.2308
+Lenovo Legion Pro 7i Core i9 RTX 4090 32GB 2TB
+0
+0.2
+42500.00
+40000.00 - 45000.00
+0,0.2,lenovo,legion,pro7i,rtx4090,flagshipgaming
+194253000808
+
+0.2309
+Asus ROG Zephyrus G14 Ryzen 9 RTX 4060 OLED 16GB
+0
+0.2
+22500.00
+21000.00 - 24000.00
+0,0.2,asus,rog,zephyrusg14,oled,rtx4060
+489512000809
+
+0.2310
+Asus ProArt P13 Flip Ryzen AI 9 RTX 4060 32GB Touch
+0
+0.2
+26500.00
+25000.00 - 28000.00
+0,0.2,asus,proart,p13,touch,convertible,creator
+489512000810
+
+0.2311
+Asus TUF Gaming F16 Core i7 RTX 4060 16GB
+0
+0.2
+15500.00
+14500.00 - 16500.00
+0,0.2,asus,tuf,tuff16,corei7,rtx4060
+489512000811
+
+0.2312
+Asus ZenBook S 16 OLED Ryzen AI 9 32GB 1TB
+0
+0.2
+19500.00
+18400.00 - 20600.00
+0,0.2,asus,zenbook,s16,oled,ryzenai,slim
+489512000812
+
+0.2313
+Asus VivoBook 15 OLED Core i5 16GB 512GB
+0
+0.2
+7800.00
+7200.00 - 8400.00
+0,0.2,asus,vivobook,vivobook15,oled,corei5
+489512000813
+
+0.2314
+Acer Predator Helios Neo 18 Core i7 RTX 4070 16GB
+0
+0.2
+23800.00
+22500.00 - 25000.00
+0,0.2,acer,predator,heliosneo18,18inch,rtx4070
+694181000814
+
+0.2315
+Acer Swift Go 14 Core Ultra 7 16GB 1TB Touch
+0
+0.2
+12200.00
+11400.00 - 13000.00
+0,0.2,acer,swiftgo14,coreultra,touch,thin
+694181000815
+
+0.2316
+Acer Aspire 5 Gaming Core i7 RTX 2050 16GB
+0
+0.2
+7900.00
+7300.00 - 8500.00
+0,0.2,acer,aspire5,rtx2050,budgetgaming
+694181000816
+
+0.2317
+MSI Stealth 18 AI Studio Core Ultra 9 RTX 4080 32GB
+0
+0.2
+38500.00
+36500.00 - 41000.00
+0,0.2,msi,stealth18,aistudio,rtx4080,18inch
+694181000817
+
+0.2318
+MSI Cyborg 14 Core i7 RTX 4060 16GB 512GB
+0
+0.2
+12800.00
+12000.00 - 13600.00
+0,0.2,msi,cyborg14,compactgaming,rtx4060
+694181000818
+
+0.2319
+MSI Commercial 14 Core i5 16GB 512GB
+0
+0.2
+8900.00
+8200.00 - 9600.00
+0,0.2,msi,commercial14,corei5,office
+694181000819
+
+0.2320
+Infinix INBook Air Pro+ Core i5 16GB 512GB OLED
+0
+0.2
+5800.00
+5300.00 - 6300.00
+0,0.2,infinix,inbookairpro,oled,slim,student
+489512000820
+
+0.2321
+Tecno Megabook T1 14 Core i5 16GB 512GB
+0
+0.2
+3850.00
+3500.00 - 4200.00
+0,0.2,tecno,megabook,t114,corei5,compact
+489512000821
+
+0.2322
+Microsoft Surface Laptop Studio Core i7 RTX 3050 Ti
+0
+0.2
+16500.00
+15500.00 - 17500.00
+0,0.2,microsoft,surface,laptopstudio,touch,pen
+840244000822
+
+0.2323
+Razer Blade 16 Core i9 RTX 4080 Dual Mode Mini-LED
+0
+0.2
+39500.00
+37500.00 - 42000.00
+0,0.2,razer,razerblade16,rtx4080,miniled
+694181000823
+
+0.2324
+Gigabyte AORUS 16X Core i7 RTX 4070 32GB 1TB
+0
+0.2
+21500.00
+20000.00 - 23000.00
+0,0.2,gigabyte,aorus16x,rtx4070,gaming
+694181000824
+
+0.2325
+Samsung Galaxy Book4 Pro 16 Core Ultra 7 16GB 1TB
+0
+0.2
+17800.00
+16800.00 - 18900.00
+0,0.2,samsung,galaxybook4pro,amoled,16inch
+880609000825
+
+0.2326
+LG Gram 15 Core i7 16GB 512GB OLED
+0
+0.2
+14500.00
+13600.00 - 15400.00
+0,0.2,lg,gram15,oled,lightweight,battery
+694181000826
+
+0.2327
+HP EliteBook 840 G4 Core i5 8GB 256GB
+0
+0.2
+2950.00
+2600.00 - 3300.00
+0,0.2,hp,elitebook,840g4,refurbished,budget
+194253000827
+
+0.2328
+Dell Latitude 5490 Core i5 8GB 256GB
+0
+0.2
+3200.00
+2850.00 - 3550.00
+0,0.2,dell,latitude,5490,corei5,office
+880609000828
+
+0.2329
+Lenovo ThinkPad T480 Core i5 8GB 256GB
+0
+0.2
+3400.00
+3000.00 - 3750.00
+0,0.2,lenovo,thinkpad,t480,dualbattery,office
+194253000829
+
+0.2330
+Asus VivoBook Flip 14 Core i3 8GB 256GB Touch
+0
+0.2
+4800.00
+4400.00 - 5200.00
+0,0.2,asus,vivobookflip,touch,2in1,budget
+489512000830
+
+0.2331
+Acer Aspire 3 Ryzen 5 8GB 512GB
+0
+0.2
+4600.00
+4200.00 - 4950.00
+0,0.2,acer,aspire3,ryzen5,student,budget
+694181000831
+
+0.2332
+MSI Katana 17 Core i7 RTX 4060 16GB 1TB
+0
+0.2
+16800.00
+15800.00 - 17800.00
+0,0.2,msi,katana17,17inch,rtx4060,gaming
+694181000832
+
+0.2333
+Dell Precision 7780 Core i9 RTX 4000 Ada 64GB
+0
+0.2
+46500.00
+44000.00 - 49000.00
+0,0.2,dell,precision,7780,ada,workstation,17inch
+880609000833
+
+0.2334
+HP ZBook Power G11 Core Ultra 7 RTX 2000 Ada 32GB
+0
+0.2
+26800.00
+25200.00 - 28500.00
+0,0.2,hp,zbook,powerg11,workstation,cad
+194253000834
+
+0.2335
+Lenovo ThinkPad P14s Gen 5 Core Ultra 7 32GB
+0
+0.2
+19500.00
+18400.00 - 20600.00
+0,0.2,lenovo,thinkpad,p14sgen5,workstation,compact
+194253000835
+
+0.2336
+Asus ROG Strix SCAR 18 Core i9 RTX 4090 64GB 2TB
+0
+0.2
+49500.00
+47000.00 - 52000.00
+0,0.2,asus,rog,scar18,18inch,rtx4090,flagship
+489512000836
+
+0.2337
+Fujitsu LifeBook U9312 Core i7 16GB 512GB
+0
+0.2
+13800.00
+12900.00 - 14600.00
+0,0.2,fujitsu,lifebook,u9312,featherweight,japan
+694181000837
+
+0.2338
+Panasonic Toughbook 55 Mk3 Core i7 32GB 1TB
+0
+0.2
+31500.00
+29500.00 - 33500.00
+0,0.2,panasonic,toughbook55,mk3,rugged,modular
+694181000838
+
+0.2339
+Dell Latitude 3520 Core i3 8GB 256GB
+0
+0.2
+4100.00
+3700.00 - 4500.00
+0,0.2,dell,latitude,3520,entry,office
+880609000839
+
+0.2340
+HP Envy x360 14 Ryzen 7 16GB 512GB Touch
+0
+0.2
+9800.00
+9100.00 - 10500.00
+0,0.2,hp,envyx360,ryzen7,touch,convertible
+194253000840
+
+0.2341
+Lenovo ThinkBook 14 Gen 6 Core i5 16GB 512GB
+0
+0.2
+7600.00
+7100.00 - 8100.00
+0,0.2,lenovo,thinkbook,14gen6,corei5,office
+194253000841
+
+0.2342
+Asus TUF Gaming A17 Ryzen 7 RTX 4050 16GB
+0
+0.2
+13800.00
+12900.00 - 14600.00
+0,0.2,asus,tuf,tufa17,17inch,ryzen7
+489512000842
+
+0.2343
+Acer Nitro 5 Core i5 RTX 3050 8GB 512GB
+0
+0.2
+9500.00
+8800.00 - 10200.00
+0,0.2,acer,nitro5,corei5,rtx3050,entrygaming
+694181000843
+
+0.2344
+MSI Sword 16 HX Core i7 RTX 4060 16GB
+0
+0.2
+15800.00
+14800.00 - 16800.00
+0,0.2,msi,sword16,hx,rtx4060,gaming
+694181000844
+
+0.2345
+Chuwi CoreBox 4th Gen Core i3 16GB 512GB Mini
+0
+0.2
+2800.00
+2500.00 - 3100.00
+0,0.2,chuwi,corebox,miniPC,budget
+694181000845
+
+0.2346
+Schenker XMG APEX 15 Ryzen 7 RTX 4060
+0
+0.2
+15500.00
+14500.00 - 16500.00
+0,0.2,xmg,apex15,ryzen7,rtx4060
+694181000846
+
+0.2347
+Honor MagicBook X 14 Core i5 8GB 512GB
+0
+0.2
+4800.00
+4400.00 - 5200.00
+0,0.2,honor,magicbook,x14,corei5,compact
+694181000847
+
+0.2348
+Dell Inspiron 15 3525 Ryzen 5 8GB 512GB
+0
+0.2
+5400.00
+4900.00 - 5900.00
+0,0.2,dell,inspiron,3525,ryzen5,budget
+880609000848
+
+0.2349
+HP Chromebook 11 G8 Celeron 4GB 32GB
+0
+0.2
+1650.00
+1450.00 - 1850.00
+0,0.2,hp,chromebook,11g8,entry,school
+194253000849
+
+0.2350
+Lenovo V14 G4 Ryzen 3 8GB 256GB
+0
+0.2
+3450.00
+3150.00 - 3750.00
+0,0.2,lenovo,lenovov14,ryzen3,budget,office
+194253000850
+
+0.2351
+Apple MacBook Pro 14-inch M3 Max 36GB 1TB
+0
+0.2
+34500.00
+32500.00 - 36500.00
+0,0.2,apple,macbook,macbookpro,m3max,compactworkstation
+194253000851
+
+0.2352
+Apple MacBook Air M1 16GB 512GB
+0
+0.2
+11200.00
+10400.00 - 12000.00
+0,0.2,apple,macbook,macbookair,m1,16gb
+194253000852
+
+0.2353
+HP ZBook Fury 16 G10 Core i9 RTX 5000 Ada 64GB
+0
+0.2
+48500.00
+46000.00 - 51000.00
+0,0.2,hp,zbook,zbookfury,workstation,rtx5000
+194253000853
+
+0.2354
+HP EliteBook 830 G9 Core i5 16GB 256GB
+0
+0.2
+6800.00
+6300.00 - 7300.00
+0,0.2,hp,elitebook,830g9,corei5,compact
+194253000854
+
+0.2355
+HP ProBook 450 G11 Core Ultra 5 16GB 512GB
+0
+0.2
+9800.00
+9100.00 - 10500.00
+0,0.2,hp,probook,450g11,coreultra,15inch
+194253000855
+
+0.2356
+HP Pavilion 15 Touch Core i7 16GB 512GB
+0
+0.2
+8400.00
+7800.00 - 9000.00
+0,0.2,hp,pavilion15,touch,corei7,student
+194253000856
+
+0.2357
+HP Victus 15 Ryzen 5 RX 6550M 8GB 512GB
+0
+0.2
+9500.00
+8800.00 - 10200.00
+0,0.2,hp,victus15,amd,rx6550m,budgetgaming
+194253000857
+
+0.2358
+Dell Latitude 7540 Core i7 16GB 512GB
+0
+0.2
+16200.00
+15200.00 - 17200.00
+0,0.2,dell,latitude,7540,15inch,business
+880609000858
+
+0.2359
+Dell Latitude 5350 Core Ultra 7 16GB 512GB
+0
+0.2
+13800.00
+12900.00 - 14600.00
+0,0.2,dell,latitude,5350,coreultra,compact
+880609000859
+
+0.2360
+Dell Latitude 7300 Core i7 16GB 512GB
+0
+0.2
+4600.00
+4200.00 - 5000.00
+0,0.2,dell,latitude,7300,corei7,office
+880609000860
+
+0.2361
+Dell XPS 13 Plus 9320 Core i7 16GB 512GB Touch
+0
+0.2
+16500.00
+15500.00 - 17500.00
+0,0.2,dell,xps13plus,9320,touch,ultrabook
+880609000861
+
+0.2362
+Dell Inspiron 14 2-in-1 Ryzen 7 16GB 512GB Touch
+0
+0.2
+8200.00
+7600.00 - 8800.00
+0,0.2,dell,inspiron14,2in1,ryzen7,touch
+880609000862
+
+0.2363
+Dell Alienware x14 R2 Core i7 RTX 4060 16GB
+0
+0.2
+22500.00
+21000.00 - 24000.00
+0,0.2,dell,alienware,x14r2,14inch,portablegaming
+880609000863
+
+0.2364
+Lenovo ThinkPad P16s Gen 2 Core i7 32GB 1TB
+0
+0.2
+21500.00
+20000.00 - 23000.00
+0,0.2,lenovo,thinkpad,p16s,workstation,cad
+194253000864
+
+0.2365
+Lenovo ThinkPad T14 Gen 5 Ryzen 7 PRO 16GB
+0
+0.2
+15500.00
+14500.00 - 16500.00
+0,0.2,lenovo,thinkpad,t14gen5,ryzen7,business
+194253000865
+
+0.2366
+Lenovo ThinkPad E14 Gen 6 Core Ultra 7 16GB
+0
+0.2
+10200.00
+9500.00 - 11000.00
+0,0.2,lenovo,thinkpad,e14gen6,coreultra,office
+194253000866
+
+0.2367
+Lenovo Yoga Pro 7i Core i7 16GB 1TB OLED
+0
+0.2
+14500.00
+13600.00 - 15400.00
+0,0.2,lenovo,yoga,yogapro7i,oled,creator
+194253000867
+
+0.2368
+Lenovo Legion Slim 7i Core i9 RTX 4070 32GB
+0
+0.2
+25500.00
+24000.00 - 27000.00
+0,0.2,lenovo,legion,slim7i,rtx4070,gaming
+194253000868
+
+0.2369
+Asus ROG Strix G16 Core i7 RTX 4050 16GB
+0
+0.2
+14200.00
+13200.00 - 15200.00
+0,0.2,asus,rog,strixg16,rtx4050,gaming
+489512000869
+
+0.2370
+Asus ProArt PX13 Convertible Ryzen AI 9 RTX 4070
+0
+0.2
+29500.00
+28000.00 - 31000.00
+0,0.2,asus,proart,px13,2in1,rtx4070,creator
+489512000870
+
+0.2371
+Asus TUF Gaming F15 Core i7 RTX 4070 16GB
+0
+0.2
+16800.00
+15800.00 - 17800.00
+0,0.2,asus,tuf,tuff15,rtx4070,gaming
+489512000871
+
+0.2372
+Asus ZenBook 14 OLED Ryzen 7 16GB 512GB
+0
+0.2
+11800.00
+11000.00 - 12600.00
+0,0.2,asus,zenbook14,oled,ryzen7,thin
+489512000872
+
+0.2373
+Asus VivoBook 15X OLED Core i7 16GB 512GB
+0
+0.2
+8900.00
+8200.00 - 9600.00
+0,0.2,asus,vivobook,15x,oled,corei7
+489512000873
+
+0.2374
+Acer Predator Triton 17 X Core i9 RTX 4090 64GB
+0
+0.2
+46500.00
+44000.00 - 49000.00
+0,0.2,acer,predator,triton17x,rtx4090,flagship
+694181000874
+
+0.2375
+Acer Swift Go 16 Core Ultra 9 32GB 1TB OLED
+0
+0.2
+15500.00
+14500.00 - 16500.00
+0,0.2,acer,swiftgo16,coreultra9,oled,32gb
+694181000875
+
+0.2376
+Acer Aspire 5 Ryzen 7 16GB 512GB
+0
+0.2
+6400.00
+5900.00 - 6900.00
+0,0.2,acer,aspire5,ryzen7,student,office
+694181000876
+
+0.2377
+MSI Vector 16 HX Core i9 RTX 4070 32GB
+0
+0.2
+23500.00
+22000.00 - 25000.00
+0,0.2,msi,vector16,hx,rtx4070,gaming
+694181000877
+
+0.2378
+MSI Katana 15 Core i5 RTX 3050 8GB 512GB
+0
+0.2
+9800.00
+9100.00 - 10500.00
+0,0.2,msi,katana15,corei5,rtx3050,budgetgaming
+694181000878
+
+0.2379
+MSI Modern 15 Ryzen 7 16GB 512GB
+0
+0.2
+5600.00
+5100.00 - 6100.00
+0,0.2,msi,modern15,ryzen7,office
+694181000879
+
+0.2380
+Infinix INBook X3 Core i5 8GB 512GB
+0
+0.2
+3800.00
+3450.00 - 4150.00
+0,0.2,infinix,inbookx3,corei5,metal,student
+489512000880
+
+0.2381
+Tecno Megabook S1 Core i5 16GB 512GB
+0
+0.2
+5400.00
+4900.00 - 5900.00
+0,0.2,tecno,megabook,s1,corei5,slim
+489512000881
+
+0.2382
+Microsoft Surface Laptop 5 Core i7 16GB 512GB
+0
+0.2
+14800.00
+13800.00 - 15800.00
+0,0.2,microsoft,surface,surfacelaptop5,corei7,touch
+840244000882
+
+0.2383
+Razer Blade 15 Core i7 RTX 3080 Ti 32GB
+0
+0.2
+26500.00
+25000.00 - 28000.00
+0,0.2,razer,razerblade15,rtx3080ti,gaming
+694181000883
+
+0.2384
+Gigabyte AORUS 17 Core i7 RTX 4070 16GB 1TB
+0
+0.2
+22500.00
+21000.00 - 24000.00
+0,0.2,gigabyte,aorus17,17inch,rtx4070
+694181000884
+
+0.2385
+Samsung Galaxy Book4 360 Core 7 16GB 512GB Touch
+0
+0.2
+13500.00
+12600.00 - 14400.00
+0,0.2,samsung,galaxybook4,360,touch,convertible
+880609000885
+
+0.2386
+LG Gram 17 Core Ultra 7 16GB 1TB
+0
+0.2
+19500.00
+18400.00 - 20600.00
+0,0.2,lg,gram17,coreultra,lightweight,17inch
+694181000886
+
+0.2387
+HP EliteBook 840 G3 Core i5 8GB 256GB
+0
+0.2
+2450.00
+2150.00 - 2750.00
+0,0.2,hp,elitebook,840g3,refurbished,budget
+194253000887
+
+0.2388
+Dell Latitude 5480 Core i5 8GB 256GB
+0
+0.2
+2800.00
+2450.00 - 3150.00
+0,0.2,dell,latitude,5480,corei5,office
+880609000888
+
+0.2389
+Lenovo ThinkPad T470 Core i5 8GB 256GB
+0
+0.2
+2650.00
+2300.00 - 3000.00
+0,0.2,lenovo,thinkpad,t470,budget,office
+194253000889
+
+0.2390
+Asus Chromebook Flip CX5 Core i5 8GB 128GB
+0
+0.2
+5400.00
+4900.00 - 5900.00
+0,0.2,asus,chromebook,cx5,touch,chromeOS
+489512000890
+
+0.2391
+Acer Aspire 5 Core i3 8GB 512GB
+0
+0.2
+4400.00
+4000.00 - 4800.00
+0,0.2,acer,aspire5,corei3,budget,student
+694181000891
+
+0.2392
+MSI Pulse 16 AI Core Ultra 7 RTX 4060 16GB
+0
+0.2
+16500.00
+15500.00 - 17500.00
+0,0.2,msi,pulse16,ai,coreultra,rtx4060
+694181000892
+
+0.2393
+Dell Precision 5480 Core i7 RTX A1000 32GB
+0
+0.2
+23800.00
+22500.00 - 25000.00
+0,0.2,dell,precision,5480,14inch,workstation
+880609000893
+
+0.2394
+HP ZBook Firefly 16 G10 Core i7 32GB 1TB
+0
+0.2
+18500.00
+17400.00 - 19600.00
+0,0.2,hp,zbook,firefly16,16inch,workstation
+194253000894
+
+0.2395
+Lenovo ThinkPad P16v Gen 1 Ryzen 7 PRO 32GB
+0
+0.2
+21500.00
+20000.00 - 23000.00
+0,0.2,lenovo,thinkpad,p16v,workstation,ryzen7
+194253000895
+
+0.2396
+Asus ROG Strix G17 Core i9 RTX 4070 32GB
+0
+0.2
+24500.00
+23000.00 - 26000.00
+0,0.2,asus,rog,strixg17,corei9,rtx4070
+489512000896
+
+0.2397
+Fujitsu LifeBook U9310 Core i7 16GB 512GB
+0
+0.2
+8900.00
+8200.00 - 9600.00
+0,0.2,fujitsu,lifebook,u9310,ultraportable,japan
+694181000897
+
+0.2398
+Panasonic Toughbook 31 Rugged Core i5 8GB
+0
+0.2
+18500.00
+17000.00 - 20000.00
+0,0.2,panasonic,toughbook31,fullyrugged,fieldwork
+694181000898
+
+0.2399
+Dell Latitude 3410 Core i3 8GB 256GB
+0
+0.2
+3400.00
+3000.00 - 3750.00
+0,0.2,dell,latitude,3410,corei3,office
+880609000899
+
+0.2400
+HP Pavilion x360 15 Core i7 16GB 512GB Touch
+0
+0.2
+9200.00
+8500.00 - 9900.00
+0,0.2,hp,pavilion,x360,15inch,touch
+194253000900
+
+0.2401
+Lenovo ThinkBook 15 Gen 4 Ryzen 5 8GB 256GB
+0
+0.2
+5800.00
+5300.00 - 6300.00
+0,0.2,lenovo,thinkbook,15gen4,ryzen5,office
+194253000901
+
+0.2402
+Asus TUF Gaming F15 Core i7 RTX 4060 16GB
+0
+0.2
+14800.00
+13900.00 - 15700.00
+0,0.2,asus,tuf,tuff15,corei7,rtx4060
+489512000902
+
+0.2403
+Acer Nitro 5 Ryzen 5 RTX 3050 8GB 512GB
+0
+0.2
+8900.00
+8200.00 - 9600.00
+0,0.2,acer,nitro5,ryzen5,rtx3050,budgetgaming
+694181000903
+
+0.2404
+MSI Vector GP78 HX Core i9 RTX 4090 64GB
+0
+0.2
+42500.00
+40000.00 - 45000.00
+0,0.2,msi,vector,gp78hx,rtx4090,17inch
+694181000904
+
+0.2405
+Chuwi CoreBook X Core i5 16GB 512GB 2K
+0
+0.2
+3600.00
+3200.00 - 3950.00
+0,0.2,chuwi,corebookx,2kdisplay,budget
+694181000905
+
+0.2406
+Schenker XMG PRO 16 Studio Core i9 RTX 4070
+0
+0.2
+24500.00
+23000.00 - 26000.00
+0,0.2,xmg,pro16,studio,rtx4070,creator
+694181000906
+
+0.2407
+Honor MagicBook 15 Ryzen 5 8GB 256GB
+0
+0.2
+4200.00
+3800.00 - 4600.00
+0,0.2,honor,magicbook15,ryzen5,budget
+694181000907
+
+0.2408
+Dell Inspiron 14 5425 Ryzen 5 8GB 512GB
+0
+0.2
+5900.00
+5400.00 - 6400.00
+0,0.2,dell,inspiron14,5425,ryzen5,compact
+880609000908
+
+0.2409
+HP ProBook 430 G7 Core i5 8GB 256GB
+0
+0.2
+3950.00
+3550.00 - 4300.00
+0,0.2,hp,probook,430g7,13inch,office
+194253000909
+
+0.2410
+Lenovo V15 G3 Core i5 8GB 512GB
+0
+0.2
+4800.00
+4400.00 - 5200.00
+0,0.2,lenovo,lenovov15,g3,corei5,office
+194253000910
+
+0.2411
+Apple MacBook Pro 16-inch M4 Pro 48GB 1TB
+0
+0.2
+36500.00
+34500.00 - 38500.00
+0,0.2,apple,macbook,macbookpro,m4pro,48gb
+194253000911
+
+0.2412
+Apple MacBook Air M3 15-inch 16GB 512GB
+0
+0.2
+19200.00
+18000.00 - 20500.00
+0,0.2,apple,macbook,macbookair,m3,15inch,16gb
+194253000912
+
+0.2413
+HP EliteBook Ultra G1q AI PC Snapdragon X Elite
+0
+0.2
+18500.00
+17400.00 - 19600.00
+0,0.2,hp,elitebook,ultrag1q,copilot,arm,business
+194253000913
+
+0.2414
+HP ProBook 445 G10 Ryzen 7 16GB 1TB
+0
+0.2
+9400.00
+8800.00 - 10000.00
+0,0.2,hp,probook,445g10,ryzen7,office
+194253000914
+
+0.2415
+HP Victus 16 Core i5 RTX 4050 16GB 512GB
+0
+0.2
+13200.00
+12400.00 - 14000.00
+0,0.2,hp,victus16,corei5,rtx4050,gaming
+194253000915
+
+0.2416
+HP Envy x360 16 Core Ultra 7 16GB 1TB Touch
+0
+0.2
+13800.00
+12900.00 - 14600.00
+0,0.2,hp,envyx360,16inch,touch,coreultra
+194253000916
+
+0.2417
+HP Pavilion 14 Ryzen 5 8GB 512GB
+0
+0.2
+5600.00
+5100.00 - 6100.00
+0,0.2,hp,pavilion14,ryzen5,student,budget
+194253000917
+
+0.2418
+Dell Latitude 7450 Core Ultra 7 16GB 512GB
+0
+0.2
+17200.00
+16200.00 - 18200.00
+0,0.2,dell,latitude,7450,coreultra,premium
+880609000918
+
+0.2419
+Dell Latitude 5550 Core Ultra 5 16GB 512GB
+0
+0.2
+13500.00
+12600.00 - 14400.00
+0,0.2,dell,latitude,5550,15inch,office
+880609000919
+
+0.2420
+Dell XPS 13 9315 Core i5 8GB 512GB
+0
+0.2
+12500.00
+11600.00 - 13400.00
+0,0.2,dell,xps13,9315,corei5,ultrabook
+880609000920
+
+0.2421
+Dell Inspiron 16 5640 Core Ultra 7 16GB 1TB
+0
+0.2
+9800.00
+9100.00 - 10500.00
+0,0.2,dell,inspiron16,5640,coreultra,16inch
+880609000921
+
+0.2422
+Dell Inspiron 14 Plus Snapdragon X Plus 16GB 512GB
+0
+0.2
+12800.00
+12000.00 - 13600.00
+0,0.2,dell,inspiron14plus,snapdragon,copilot
+880609000922
+
+0.2423
+Dell Alienware m16 R2 Core i7 RTX 4060 16GB
+0
+0.2
+23500.00
+22000.00 - 25000.00
+0,0.2,dell,alienware,m16r2,rtx4060,gaming
+880609000923
+
+0.2424
+Lenovo ThinkPad T14 Gen 4 Ryzen 5 PRO 16GB
+0
+0.2
+11800.00
+11000.00 - 12600.00
+0,0.2,lenovo,thinkpad,t14gen4,ryzen5,business
+194253000924
+
+0.2425
+Lenovo ThinkPad X1 Carbon Gen 12 Core Ultra 7 32GB
+0
+0.2
+24500.00
+23000.00 - 26000.00
+0,0.2,lenovo,thinkpad,x1carbong12,flagship,ultrabook
+194253000925
+
+0.2426
+Lenovo ThinkBook 16 Gen 7 Snapdragon X Plus
+0
+0.2
+11500.00
+10700.00 - 12300.00
+0,0.2,lenovo,thinkbook,16gen7,snapdragon,copilot
+194253000926
+
+0.2427
+Lenovo IdeaPad Slim 5 Ryzen 7 16GB 512GB OLED
+0
+0.2
+8800.00
+8200.00 - 9400.00
+0,0.2,lenovo,ideapad,slim5,oled,ryzen7
+194253000927
+
+0.2428
+Lenovo Legion Pro 5i Core i7 RTX 4070 32GB
+0
+0.2
+22800.00
+21500.00 - 24000.00
+0,0.2,lenovo,legion,pro5i,rtx4070,gaming
+194253000928
+
+0.2429
+Asus ROG Zephyrus G16 AMD Ryzen AI 9 RTX 4070 OLED
+0
+0.2
+29500.00
+28000.00 - 31000.00
+0,0.2,asus,rog,zephyrusg16,ryzenai,oled,rtx4070
+489512000929
+
+0.2430
+Asus TUF Gaming A15 Ryzen 7 RTX 4070 16GB
+0
+0.2
+16200.00
+15200.00 - 17200.00
+0,0.2,asus,tuf,tufa15,ryzen7,rtx4070
+489512000930
+
+0.2431
+Asus ZenBook 14 OLED Snapdragon X Elite 16GB 1TB
+0
+0.2
+16500.00
+15500.00 - 17500.00
+0,0.2,asus,zenbook14,oled,snapdragon,copilot
+489512000931
+
+0.2432
+Asus VivoBook 16 Core i5 16GB 512GB
+0
+0.2
+6400.00
+5900.00 - 6900.00
+0,0.2,asus,vivobook,vivobook16,corei5,16inch
+489512000932
+
+0.2433
+Acer Predator Helios Neo 16 Core i9 RTX 4070 32GB
+0
+0.2
+22500.00
+21000.00 - 24000.00
+0,0.2,acer,predator,heliosneo16,corei9,rtx4070
+694181000933
+
+0.2434
+Acer Swift 14 AI Snapdragon X Plus 16GB 1TB
+0
+0.2
+11800.00
+11000.00 - 12600.00
+0,0.2,acer,swift14ai,snapdragon,copilot,thin
+694181000934
+
+0.2435
+Acer Aspire Lite 15 Core i3 8GB 512GB
+0
+0.2
+3850.00
+3500.00 - 4150.00
+0,0.2,acer,aspirelite15,corei3,budget,student
+694181000935
+
+0.2436
+MSI Raider GE68 HX Core i9 RTX 4080 32GB
+0
+0.2
+34500.00
+32500.00 - 36500.00
+0,0.2,msi,raider,ge68hx,rtx4080,gaming
+694181000936
+
+0.2437
+MSI Prestige 16 AI Studio Core Ultra 7 RTX 4060
+0
+0.2
+19500.00
+18400.00 - 20600.00
+0,0.2,msi,prestige16,aistudio,rtx4060,oled
+694181000937
+
+0.2438
+MSI Thin A15 Ryzen 5 RTX 3050 8GB
+0
+0.2
+8900.00
+8200.00 - 9600.00
+0,0.2,msi,thina15,ryzen5,rtx3050,budgetgaming
+694181000938
+
+0.2439
+Infinix INBook Y3 Max Core i5 16GB 512GB
+0
+0.2
+4200.00
+3850.00 - 4550.00
+0,0.2,infinix,inbooky3max,corei5,bigscreen
+489512000939
+
+0.2440
+Tecno Megabook T1 15.6 AMD Ryzen 5 16GB
+0
+0.2
+3950.00
+3600.00 - 4300.00
+0,0.2,tecno,megabook,t1,ryzen5,student
+489512000940
+
+0.2441
+Microsoft Surface Pro 9 Core i5 8GB 256GB
+0
+0.2
+11500.00
+10700.00 - 12300.00
+0,0.2,microsoft,surface,surfacepro9,corei5,2in1
+840244000941
+
+0.2442
+Razer Blade 18 Core i9 RTX 4080 32GB 1TB
+0
+0.2
+41500.00
+39000.00 - 44000.00
+0,0.2,razer,razerblade18,18inch,rtx4080
+694181000942
+
+0.2443
+Gigabyte AORUS 15X Core i9 RTX 4070 16GB
+0
+0.2
+23800.00
+22500.00 - 25000.00
+0,0.2,gigabyte,aorus15x,corei9,rtx4070
+694181000943
+
+0.2444
+Samsung Galaxy Book4 Pro 14 Core Ultra 7 16GB
+0
+0.2
+16200.00
+15200.00 - 17200.00
+0,0.2,samsung,galaxybook4pro,14inch,amoled
+880609000944
+
+0.2445
+LG Gram 16 Core Ultra 7 16GB 1TB OLED
+0
+0.2
+18200.00
+17200.00 - 19200.00
+0,0.2,lg,gram16,oled,coreultra,lightweight
+694181000945
+
+0.2446
+HP EliteBook 840 G2 Core i5 8GB 256GB
+0
+0.2
+2100.00
+1850.00 - 2350.00
+0,0.2,hp,elitebook,840g2,legacy,budget
+194253000946
+
+0.2447
+Dell Latitude 5470 Core i5 8GB 256GB
+0
+0.2
+2400.00
+2100.00 - 2700.00
+0,0.2,dell,latitude,5470,legacy,office
+880609000947
+
+0.2448
+Lenovo ThinkPad T460 Core i5 8GB 256GB
+0
+0.2
+2250.00
+1950.00 - 2550.00
+0,0.2,lenovo,thinkpad,t460,legacy,budget
+194253000948
+
+0.2449
+Asus VivoBook Go 14 Celeron 4GB 128GB
+0
+0.2
+2800.00
+2500.00 - 3100.00
+0,0.2,asus,vivobookgo14,entry,student
+489512000949
+
+0.2450
+Acer Aspire 3 Core i5 12th Gen 8GB 512GB
+0
+0.2
+5200.00
+4750.00 - 5650.00
+0,0.2,acer,aspire3,corei5,office,student
+694181000950
+
+0.2451
+MSI Cyborg 15 AI Core Ultra 7 RTX 4060 16GB
+0
+0.2
+14800.00
+13900.00 - 15700.00
+0,0.2,msi,cyborg15ai,coreultra,rtx4060
+694181000951
+
+0.2452
+Dell Precision 3590 Core Ultra 7 RTX 500 Ada
+0
+0.2
+17500.00
+16400.00 - 18600.00
+0,0.2,dell,precision,3590,workstation,cad
+880609000952
+
+0.2453
+HP ZBook Power G10 A Ryzen 7 RTX 2000 Ada
+0
+0.2
+23500.00
+22000.00 - 25000.00
+0,0.2,hp,zbook,powerg10a,ryzen7,workstation
+194253000953
+
+0.2454
+Lenovo ThinkPad L14 Gen 5 Core Ultra 5 16GB
+0
+0.2
+10500.00
+9800.00 - 11200.00
+0,0.2,lenovo,thinkpad,l14gen5,coreultra,business
+194253000954
+
+0.2455
+Asus ROG Strix G16 Core i7 RTX 4060 32GB
+0
+0.2
+18500.00
+17400.00 - 19600.00
+0,0.2,asus,rog,strixg16,32gb,rtx4060
+489512000955
+
+0.2456
+Fujitsu LifeBook U7511 Core i7 16GB 512GB
+0
+0.2
+10500.00
+9800.00 - 11200.00
+0,0.2,fujitsu,lifebook,u7511,15inch,business
+694181000956
+
+0.2457
+Panasonic Toughbook 40 Mk2 Core Ultra 7 32GB
+0
+0.2
+42000.00
+39500.00 - 44500.00
+0,0.2,panasonic,toughbook40,mk2,rugged,military
+694181000957
+
+0.2458
+Dell Latitude 3400 Core i5 8GB 256GB
+0
+0.2
+3600.00
+3200.00 - 3950.00
+0,0.2,dell,latitude,3400,office,budget
+880609000958
+
+0.2459
+HP Pavilion 15 Core i7 13th Gen 16GB 1TB
+0
+0.2
+8900.00
+8200.00 - 9600.00
+0,0.2,hp,pavilion15,corei7,16gb,1tb
+194253000959
+
+0.2460
+Lenovo ThinkBook 14 Gen 7 Ryzen 7 16GB 512GB
+0
+0.2
+8200.00
+7600.00 - 8800.00
+0,0.2,lenovo,thinkbook,14gen7,ryzen7,office
+194253000960
+
+0.2461
+Asus TUF Gaming A15 Ryzen 7 RTX 4050 16GB
+0
+0.2
+12200.00
+11400.00 - 13000.00
+0,0.2,asus,tuf,tufa15,ryzen7,rtx4050
+489512000961
+
+0.2462
+Acer Nitro V 15 Ryzen 5 RTX 2050 8GB
+0
+0.2
+8800.00
+8200.00 - 9400.00
+0,0.2,acer,nitrov15,ryzen5,rtx2050,budgetgaming
+694181000962
+
+0.2463
+MSI Sword 17 HX Core i7 RTX 4070 16GB
+0
+0.2
+18500.00
+17400.00 - 19600.00
+0,0.2,msi,sword17,hx,rtx4070,17inch
+694181000963
+
+0.2464
+Chuwi Gemibook Plus N100 8GB 512GB
+0
+0.2
+2500.00
+2200.00 - 2800.00
+0,0.2,chuwi,gemibookplus,n100,budget,student
+694181000964
+
+0.2465
+Schenker XMG CORE 16 Ryzen 7 RTX 4060
+0
+0.2
+16200.00
+15200.00 - 17200.00
+0,0.2,xmg,core16,ryzen7,rtx4060,gaming
+694181000965
+
+0.2466
+Honor MagicBook X 16 Pro Core i7 16GB 512GB
+0
+0.2
+6800.00
+6300.00 - 7300.00
+0,0.2,honor,magicbook,x16pro,corei7,metal
+694181000966
+
+0.2467
+Dell Inspiron 15 3511 Core i5 8GB 256GB
+0
+0.2
+4900.00
+4500.00 - 5300.00
+0,0.2,dell,inspiron,3511,corei5,budget
+880609000967
+
+0.2468
+HP ProBook 450 G8 Core i7 16GB 512GB
+0
+0.2
+6900.00
+6400.00 - 7400.00
+0,0.2,hp,probook,450g8,corei7,15inch
+194253000968
+
+0.2469
+Lenovo V14 G2 Core i3 8GB 256GB
+0
+0.2
+3100.00
+2800.00 - 3400.00
+0,0.2,lenovo,lenovov14,g2,budget,office
+194253000969
+
+0.2470
+Apple MacBook Air M2 13-inch 16GB 512GB
+0
+0.2
+14500.00
+13600.00 - 15400.00
+0,0.2,apple,macbook,macbookair,m2,16gb,512gb
+194253000970
+
+0.2471
+Apple MacBook Pro 14-inch M4 24GB 1TB
+0
+0.2
+25500.00
+24000.00 - 27000.00
+0,0.2,apple,macbook,macbookpro,m4,24gb,macOS
+194253000971
+
+0.2472
+Apple MacBook Air M3 13-inch 16GB 512GB
+0
+0.2
+16500.00
+15500.00 - 17500.00
+0,0.2,apple,macbook,macbookair,m3,16gb,macOS
+194253000972
+
+0.2473
+HP EliteBook 860 G11 Core Ultra 7 32GB 1TB
+0
+0.2
+19800.00
+18600.00 - 21000.00
+0,0.2,hp,elitebook,860g11,coreultra,32gb,business
+194253000973
+
+0.2474
+HP ProBook 455 G9 Ryzen 7 16GB 512GB
+0
+0.2
+7800.00
+7200.00 - 8400.00
+0,0.2,hp,probook,455g9,ryzen7,office
+194253000974
+
+0.2475
+HP Victus 15 Core i7 RTX 4050 16GB 512GB
+0
+0.2
+13800.00
+12900.00 - 14600.00
+0,0.2,hp,victus15,corei7,rtx4050,gaming
+194253000975
+
+0.2476
+HP Envy x360 15 Ryzen 7 16GB 512GB Touch
+0
+0.2
+10500.00
+9800.00 - 11200.00
+0,0.2,hp,envyx360,ryzen7,touch,convertible
+194253000976
+
+0.2477
+HP 15s Core i5 12th Gen 8GB 512GB
+0
+0.2
+5400.00
+4900.00 - 5900.00
+0,0.2,hp,hp15s,corei5,student,budget
+194253000977
+
+0.2478
+Dell Latitude 7350 2-in-1 Core Ultra 7 16GB
+0
+0.2
+18500.00
+17400.00 - 19600.00
+0,0.2,dell,latitude,7350,2in1,touch,coreultra
+880609000978
+
+0.2479
+Dell Latitude 5330 Core i7 16GB 512GB
+0
+0.2
+10200.00
+9500.00 - 11000.00
+0,0.2,dell,latitude,5330,corei7,compact
+880609000979
+
+0.2480
+Dell XPS 14 9440 Core Ultra 7 32GB 1TB OLED
+0
+0.2
+28500.00
+27000.00 - 30000.00
+0,0.2,dell,xps14,9440,oled,coreultra,ultrabook
+880609000980
+
+0.2481
+Dell Inspiron 14 5440 Core Ultra 5 16GB 512GB
+0
+0.2
+8800.00
+8200.00 - 9400.00
+0,0.2,dell,inspiron14,5440,coreultra,office
+880609000981
+
+0.2482
+Dell Alienware m16 R2 Core i9 RTX 4070 32GB
+0
+0.2
+26500.00
+25000.00 - 28000.00
+0,0.2,dell,alienware,m16r2,corei9,rtx4070
+880609000982
+
+0.2483
+Lenovo ThinkPad T14s Gen 4 Core i7 32GB 1TB
+0
+0.2
+17500.00
+16400.00 - 18600.00
+0,0.2,lenovo,thinkpad,t14sgen4,32gb,ultrabook
+194253000983
+
+0.2484
+Lenovo ThinkPad X1 2-in-1 Gen 9 Core Ultra 7
+0
+0.2
+25500.00
+24000.00 - 27000.00
+0,0.2,lenovo,thinkpad,x1yoga,2in1,touch,coreultra
+194253000984
+
+0.2485
+Lenovo ThinkBook 14s Yoga Gen 2 Core i5 Touch
+0
+0.2
+8500.00
+7900.00 - 9100.00
+0,0.2,lenovo,thinkbook,14syoga,touch,2in1
+194253000985
+
+0.2486
+Lenovo IdeaPad Slim 3 Ryzen 7 16GB 512GB
+0
+0.2
+6200.00
+5700.00 - 6700.00
+0,0.2,lenovo,ideapad,slim3,ryzen7,student
+194253000986
+
+0.2487
+Lenovo Legion Slim 5 Core i7 RTX 4060 16GB
+0
+0.2
+16200.00
+15200.00 - 17200.00
+0,0.2,lenovo,legion,slim5,corei7,rtx4060
+194253000987
+
+0.2488
+Asus ROG Zephyrus G16 Intel Core Ultra 9 RTX 4070
+0
+0.2
+28500.00
+27000.00 - 30000.00
+0,0.2,asus,rog,zephyrusg16,coreultra9,rtx4070
+489512000988
+
+0.2489
+Asus TUF Gaming F16 Core i5 RTX 4050 16GB
+0
+0.2
+12800.00
+12000.00 - 13600.00
+0,0.2,asus,tuf,tuff16,corei5,rtx4050
+489512000989
+
+0.2490
+Asus ZenBook 14 OLED Core i7 16GB 1TB
+0
+0.2
+13500.00
+12600.00 - 14400.00
+0,0.2,asus,zenbook14,oled,corei7,thin
+489512000990
+
+0.2491
+Asus VivoBook 15 Core i7 16GB 512GB
+0
+0.2
+7900.00
+7300.00 - 8500.00
+0,0.2,asus,vivobook,vivobook15,corei7,office
+489512000991
+
+0.2492
+Acer Predator Helios Neo 16 Core i7 RTX 4050 16GB
+0
+0.2
+14500.00
+13500.00 - 15500.00
+0,0.2,acer,predator,heliosneo16,rtx4050,gaming
+694181000992
+
+0.2493
+Acer Swift Go 14 Core Ultra 5 16GB 512GB OLED
+0
+0.2
+10500.00
+9800.00 - 11200.00
+0,0.2,acer,swiftgo14,coreultra5,oled,compact
+694181000993
+
+0.2494
+Acer Aspire 3 Ryzen 7 16GB 512GB
+0
+0.2
+5600.00
+5100.00 - 6100.00
+0,0.2,acer,aspire3,ryzen7,student,office
+694181000994
+
+0.2495
+MSI Raider GE68 HX Core i7 RTX 4070 32GB
+0
+0.2
+26500.00
+25000.00 - 28000.00
+0,0.2,msi,raider,ge68hx,rtx4070,gaming
+694181000995
+
+0.2496
+MSI Modern 14 Core i7 16GB 512GB
+0
+0.2
+6400.00
+5900.00 - 6900.00
+0,0.2,msi,modern14,corei7,compact,office
+694181000996
+
+0.2497
+Infinix INBook X2 Pro Core i7 16GB 512GB
+0
+0.2
+4800.00
+4400.00 - 5200.00
+0,0.2,infinix,inbookx2pro,corei7,metal,slim
+489512000997
+
+0.2498
+Tecno Megabook T1 15.6 Core i7 16GB 1TB
+0
+0.2
+4950.00
+4500.00 - 5350.00
+0,0.2,tecno,megabook,t1,corei7,1tb,student
+489512000998
+
+0.2499
+Microsoft Surface Laptop 5 Ryzen 7 16GB 512GB
+0
+0.2
+13800.00
+12900.00 - 14600.00
+0,0.2,microsoft,surface,surfacelaptop5,ryzen7,touch
+840244000999
+
+0.2500
+Razer Blade 14 Ryzen 7 RTX 3070 Ti 16GB
+0
+0.2
+18500.00
+17400.00 - 19600.00
+0,0.2,razer,razerblade14,ryzen7,rtx3070ti
+694181001000
+
+0.2501
+Gigabyte G5 KF Core i7 RTX 4060 16GB 512GB
+0
+0.2
+13800.00
+12900.00 - 14600.00
+0,0.2,gigabyte,g5kf,corei7,rtx4060,gaming
+694181001001
+
+0.2502
+Samsung Galaxy Book4 Pro 360 Core Ultra 5 Touch
+0
+0.2
+15500.00
+14500.00 - 16500.00
+0,0.2,samsung,galaxybook4,360,coreultra5,touch
+880609001002
+
+0.2503
+LG Gram 14 Core Ultra 5 16GB 512GB
+0
+0.2
+12500.00
+11600.00 - 13400.00
+0,0.2,lg,gram14,coreultra5,lightweight,battery
+694181001003
+
+0.2504
+HP EliteBook 830 G7 Core i5 8GB 256GB
+0
+0.2
+3950.00
+3550.00 - 4300.00
+0,0.2,hp,elitebook,830g7,corei5,refurbished
+194253001004
+
+0.2505
+Dell Latitude 5500 Core i5 8GB 256GB
+0
+0.2
+3400.00
+3000.00 - 3750.00
+0,0.2,dell,latitude,5500,corei5,15inch
+880609001005
+
+0.2506
+Lenovo ThinkPad T490 Core i7 16GB 512GB
+0
+0.2
+3950.00
+3550.00 - 4300.00
+0,0.2,lenovo,thinkpad,t490,corei7,office
+194253001006
+
+0.2507
+Asus VivoBook 14 Core i5 8GB 512GB
+0
+0.2
+5200.00
+4750.00 - 5650.00
+0,0.2,asus,vivobook14,corei5,compact,budget
+489512001007
+
+0.2508
+Acer Nitro 5 Core i7 RTX 4060 16GB 512GB
+0
+0.2
+13500.00
+12600.00 - 14400.00
+0,0.2,acer,nitro5,corei7,rtx4060,gaming
+694181001008
+
+0.2509
+MSI Thin 15 Core i5 RTX 3050 8GB 512GB
+0
+0.2
+9500.00
+8800.00 - 10200.00
+0,0.2,msi,thin15,corei5,rtx3050,budgetgaming
+694181001009
+
+0.2510
+Dell Precision 3490 Core Ultra 7 RTX 500 Ada
+0
+0.2
+16800.00
+15800.00 - 17800.00
+0,0.2,dell,precision,3490,workstation,cad
+880609001010
+
+0.2511
+HP ZBook Firefly 14 G9 Core i7 16GB 512GB
+0
+0.2
+12800.00
+12000.00 - 13600.00
+0,0.2,hp,zbook,firefly14g9,workstation,compact
+194253001011
+
+0.2512
+Lenovo ThinkPad P15v Gen 3 Core i7 RTX A2000
+0
+0.2
+18500.00
+17400.00 - 19600.00
+0,0.2,lenovo,thinkpad,p15vgen3,workstation,cad
+194253001012
+
+0.2513
+Asus ROG Strix G18 Core i9 RTX 4070 32GB 1TB
+0
+0.2
+27500.00
+26000.00 - 29000.00
+0,0.2,asus,rog,strixg18,corei9,rtx4070
+489512001013
+
+0.2514
+Fujitsu LifeBook U7311 Core i5 8GB 256GB
+0
+0.2
+6800.00
+6300.00 - 7300.00
+0,0.2,fujitsu,lifebook,u7311,compact,japan
+694181001014
+
+0.2515
+Panasonic Toughbook 55 Mk2 Core i5 16GB 512GB
+0
+0.2
+24500.00
+23000.00 - 26000.00
+0,0.2,panasonic,toughbook55,mk2,rugged,modular
+694181001015
+
+0.2516
+Dell Latitude 3510 Core i5 8GB 256GB
+0
+0.2
+3950.00
+3550.00 - 4300.00
+0,0.2,dell,latitude,3510,15inch,office
+880609001016
+
+0.2517
+HP Pavilion 14 Core i7 12th Gen 16GB 512GB
+0
+0.2
+7200.00
+6700.00 - 7700.00
+0,0.2,hp,pavilion14,corei7,16gb,compact
+194253001017
+
+0.2518
+Lenovo ThinkBook 15 Gen 3 Ryzen 7 16GB 512GB
+0
+0.2
+6900.00
+6400.00 - 7400.00
+0,0.2,lenovo,thinkbook,15gen3,ryzen7,office
+194253001018
+
+0.2519
+Asus TUF Gaming A15 Ryzen 5 RTX 4050 16GB
+0
+0.2
+11500.00
+10700.00 - 12300.00
+0,0.2,asus,tuf,tufa15,ryzen5,rtx4050
+489512001019
+
+0.2520
+Acer Nitro 5 Core i5 RTX 2050 8GB 512GB
+0
+0.2
+8200.00
+7600.00 - 8800.00
+0,0.2,acer,nitro5,corei5,rtx2050,entrygaming
+694181001020
+
+0.2521
+MSI Sword 16 HX Core i9 RTX 4070 32GB
+0
+0.2
+21500.00
+20000.00 - 23000.00
+0,0.2,msi,sword16,hx,corei9,rtx4070
+694181001021
+
+0.2522
+Chuwi HeroBook Air N4020 4GB 128GB
+0
+0.2
+1850.00
+1650.00 - 2050.00
+0,0.2,chuwi,herobookair,budget,student,entry
+694181001022
+
+0.2523
+Schenker XMG APEX 17 Ryzen 7 RTX 4060
+0
+0.2
+16800.00
+15800.00 - 17800.00
+0,0.2,xmg,apex17,17inch,ryzen7,rtx4060
+694181001023
+
+0.2524
+Honor MagicBook 14 Core i5 16GB 512GB
+0
+0.2
+5400.00
+4900.00 - 5900.00
+0,0.2,honor,magicbook14,corei5,16gb,metal
+694181001024
+
+0.2525
+Dell Inspiron 15 3515 Ryzen 3 8GB 256GB
+0
+0.2
+3800.00
+3400.00 - 4150.00
+0,0.2,dell,inspiron,3515,ryzen3,budget
+880609001025
+
+0.2526
+HP ProBook 440 G7 Core i5 8GB 256GB
+0
+0.2
+3600.00
+3200.00 - 3950.00
+0,0.2,hp,probook,440g7,office,budget
+194253001026
+
+0.2527
+Lenovo V15 G2 Core i5 8GB 256GB
+0
+0.2
+3950.00
+3550.00 - 4300.00
+0,0.2,lenovo,lenovov15,g2,corei5,office
+194253001027
+
+0.2528
+Apple MacBook Air M2 15-inch 16GB 512GB
+0
+0.2
+16200.00
+15200.00 - 17200.00
+0,0.2,apple,macbook,macbookair,m2,15inch,16gb
+194253001028
+
+0.2529
+Asus ZenBook Duo (2024) Dual OLED Core Ultra 9
+0
+0.2
+25500.00
+24000.00 - 27000.00
+0,0.2,asus,zenbook,duo,dualscreen,coreultra9
+489512001029
+
+0.2530
+HP OMEN 16 Ryzen 7 RTX 4060 16GB 512GB
+0
+0.2
+16500.00
+15500.00 - 17500.00
+0,0.2,hp,omen,omen16,ryzen7,rtx4060
+194253001030
+
+0.2531
+HP EliteBook 840 G3 Core i7 16GB 512GB SSD
+0
+0.2
+3200.00
+2900.00 - 3500.00
+0,0.2,hp,elitebook,840g3,corei7,circle,ghana
+194253001031
+
+0.2532
+HP EliteBook 840 G5 Core i7 16GB 512GB SSD
+0
+0.2
+4200.00
+3800.00 - 4600.00
+0,0.2,hp,elitebook,840g5,corei7,popular,ghana
+194253001032
+
+0.2533
+HP EliteBook 840 G6 Core i5 8GB 256GB SSD
+0
+0.2
+3800.00
+3400.00 - 4100.00
+0,0.2,hp,elitebook,840g6,corei5,office,business
+194253001033
+
+0.2534
+HP EliteBook 830 G5 Core i5 8GB 256GB SSD
+0
+0.2
+3300.00
+3000.00 - 3600.00
+0,0.2,hp,elitebook,830g5,compact,student,accra
+194253001034
+
+0.2535
+HP EliteBook 1040 G3 Core i7 16GB 512GB SSD Touch
+0
+0.2
+3500.00
+3200.00 - 3850.00
+0,0.2,hp,elitebook,1040g3,touch,slim,business
+194253001035
+
+0.2536
+HP ProBook 450 G5 Core i5 8GB 1TB HDD
+0
+0.2
+3400.00
+3000.00 - 3750.00
+0,0.2,hp,probook,450g5,15inch,numeric,office
+194253001036
+
+0.2537
+HP ProBook 440 G5 Core i5 8GB 256GB SSD
+0
+0.2
+3200.00
+2900.00 - 3500.00
+0,0.2,hp,probook,440g5,corei5,student,budget
+194253001037
+
+0.2538
+HP ProBook 650 G2 Core i5 8GB 500GB HDD
+0
+0.2
+2600.00
+2300.00 - 2900.00
+0,0.2,hp,probook,650g2,dvd,legacy,budget
+194253001038
+
+0.2539
+HP Notebook 15 Celeron N4020 4GB 1TB HDD
+0
+0.2
+2800.00
+2500.00 - 3100.00
+0,0.2,hp,notebook15,celeron,entry,knust,ug
+194253001039
+
+0.2540
+HP Pavilion 15 Core i5 11th Gen 8GB 512GB SSD
+0
+0.2
+6200.00
+5700.00 - 6700.00
+0,0.2,hp,pavilion15,corei5,11thgen,student
+194253001040
+
+0.2541
+Dell Latitude 5400 Core i7 16GB 512GB SSD
+0
+0.2
+4200.00
+3800.00 - 4600.00
+0,0.2,dell,latitude,5400,corei7,popular,ghana
+880609001041
+
+0.2542
+Dell Latitude 5490 Core i7 16GB 512GB SSD
+0
+0.2
+3600.00
+3200.00 - 3950.00
+0,0.2,dell,latitude,5490,corei7,workplace
+880609001042
+
+0.2543
+Dell Latitude 7490 Core i5 8GB 256GB SSD
+0
+0.2
+3400.00
+3000.00 - 3700.00
+0,0.2,dell,latitude,7490,corei5,ultrabook
+880609001043
+
+0.2544
+Dell Latitude 7480 Core i7 16GB 256GB SSD
+0
+0.2
+3200.00
+2850.00 - 3500.00
+0,0.2,dell,latitude,7480,corei7,lightweight
+880609001044
+
+0.2545
+Dell Latitude 7400 Core i5 8GB 256GB SSD
+0
+0.2
+3800.00
+3400.00 - 4150.00
+0,0.2,dell,latitude,7400,corei5,office,circle
+880609001045
+
+0.2546
+Dell Latitude 5580 Core i5 8GB 500GB HDD
+0
+0.2
+3100.00
+2750.00 - 3400.00
+0,0.2,dell,latitude,5580,15inch,numeric
+880609001046
+
+0.2547
+Dell Latitude 5290 2-in-1 Touch Core i5 8GB 256GB
+0
+0.2
+3500.00
+3150.00 - 3850.00
+0,0.2,dell,latitude,5290,2in1,touch,detachable
+880609001047
+
+0.2548
+Dell Inspiron 3511 Core i3 11th Gen 8GB 1TB HDD
+0
+0.2
+4200.00
+3800.00 - 4550.00
+0,0.2,dell,inspiron,3511,corei3,student,brandnew
+880609001048
+
+0.2549
+Dell XPS 13 9360 Core i7 16GB 512GB SSD
+0
+0.2
+4800.00
+4300.00 - 5200.00
+0,0.2,dell,xps13,9360,corei7,4k,touch
+880609001049
+
+0.2550
+Dell Precision 7520 Core i7 Xeon 32GB 512GB SSD
+0
+0.2
+6800.00
+6200.00 - 7400.00
+0,0.2,dell,precision,7520,xeon,workstation,graphics
+880609001050
+
+0.2551
+Lenovo ThinkPad T480s Core i7 16GB 512GB SSD
+0
+0.2
+4100.00
+3700.00 - 4500.00
+0,0.2,lenovo,thinkpad,t480s,corei7,slim,popular
+194253001051
+
+0.2552
+Lenovo ThinkPad T490s Core i5 8GB 256GB SSD
+0
+0.2
+3900.00
+3500.00 - 4250.00
+0,0.2,lenovo,thinkpad,t490s,corei5,office
+194253001052
+
+0.2553
+Lenovo ThinkPad X1 Carbon Gen 6 Core i7 16GB 512GB
+0
+0.2
+4950.00
+4500.00 - 5400.00
+0,0.2,lenovo,thinkpad,x1carbong6,corei7,flagship
+194253001053
+
+0.2554
+Lenovo ThinkPad L480 Core i5 8GB 256GB SSD
+0
+0.2
+3100.00
+2750.00 - 3400.00
+0,0.2,lenovo,thinkpad,l480,corei5,budget
+194253001054
+
+0.2555
+Lenovo ThinkPad X280 Core i5 8GB 256GB SSD
+0
+0.2
+2950.00
+2600.00 - 3250.00
+0,0.2,lenovo,thinkpad,x280,12inch,compact,travel
+194253001055
+
+0.2556
+Lenovo IdeaPad 3 Core i3 11th Gen 8GB 256GB SSD
+0
+0.2
+4500.00
+4100.00 - 4900.00
+0,0.2,lenovo,ideapad3,corei3,student,brandnew
+194253001056
+
+0.2557
+Lenovo V14 Core i5 10th Gen 8GB 1TB HDD
+0
+0.2
+3800.00
+3400.00 - 4150.00
+0,0.2,lenovo,lenovov14,corei5,office,budget
+194253001057
+
+0.2558
+Apple MacBook Air 2017 Core i5 8GB 128GB SSD
+0
+0.2
+3400.00
+3000.00 - 3750.00
+0,0.2,apple,macbookair,2017,magsafe,budgetmac
+194253001058
+
+0.2559
+Apple MacBook Pro 13 2017 Core i5 8GB 256GB SSD
+0
+0.2
+4200.00
+3800.00 - 4600.00
+0,0.2,apple,macbookpro,2017,thunderbolt,student
+194253001059
+
+0.2560
+Apple MacBook Pro 15 2018 Touch Bar Core i7 16GB
+0
+0.2
+6800.00
+6200.00 - 7400.00
+0,0.2,apple,macbookpro,2018,15inch,touchbar
+194253001060
+
+0.2561
+Asus VivoBook 15 Core i3 11th Gen 4GB 256GB SSD
+0
+0.2
+4400.00
+4000.00 - 4800.00
+0,0.2,asus,vivobook15,corei3,student,brandnew
+489512001061
+
+0.2562
+Asus TUF FX505 Core i5 GTX 1650 8GB 512GB SSD
+0
+0.2
+7800.00
+7200.00 - 8400.00
+0,0.2,asus,tuf,fx505,gtx1650,gaming,ghana
+489512001062
+
+0.2563
+Acer Aspire 3 Celeron N4500 4GB 256GB SSD
+0
+0.2
+3100.00
+2800.00 - 3400.00
+0,0.2,acer,aspire3,celeron,entry,student
+694181001063
+
+0.2564
+Acer Nitro 5 Core i5 GTX 1650 8GB 256GB SSD
+0
+0.2
+7500.00
+6900.00 - 8100.00
+0,0.2,acer,nitro5,gtx1650,gaming,popular
+694181001064
+
+0.2565
+MSI GF63 Thin Core i5 GTX 1650 Max-Q 8GB
+0
+0.2
+7900.00
+7300.00 - 8500.00
+0,0.2,msi,gf63,thin,gtx1650,gaming
+694181001065
+
+0.2566
+Toshiba Tecra Z40 Core i5 8GB 256GB SSD
+0
+0.2
+2200.00
+1900.00 - 2450.00
+0,0.2,toshiba,tecra,z40,legacy,budget
+694181001066
+
+0.2567
+Toshiba Dynabook Satellite Pro Core i3 8GB 256GB
+0
+0.2
+3500.00
+3150.00 - 3850.00
+0,0.2,toshiba,dynabook,satellite,office
+694181001067
+
+0.2568
+Fujitsu LifeBook A574 Core i3 4GB 320GB HDD
+0
+0.2
+1650.00
+1450.00 - 1850.00
+0,0.2,fujitsu,a574,japan,cheap,budget
+694181001068
+
+0.2569
+HP EliteBook Revolve 810 G3 Touch Core i5 8GB
+0
+0.2
+2650.00
+2350.00 - 2950.00
+0,0.2,hp,revolve810,g3,touch,convertible
+194253001069
+
+0.2570
+HP Stream 11 Celeron 4GB 64GB eMMC
+0
+0.2
+1850.00
+1600.00 - 2050.00
+0,0.2,hp,hpstream,11inch,colorful,entry
+194253001070
+
+0.2571
+Dell Latitude 3190 2-in-1 Celeron 4GB 128GB SSD
+0
+0.2
+2100.00
+1850.00 - 2350.00
+0,0.2,dell,latitude,3190,2in1,rugged,student
+880609001071
+
+0.2572
+Dell Inspiron 15 3000 Celeron 4GB 1TB HDD
+0
+0.2
+3200.00
+2850.00 - 3500.00
+0,0.2,dell,inspiron3000,celeron,budget
+880609001072
+
+0.2573
+HP EliteBook 820 G3 Core i5 8GB 256GB SSD
+0
+0.2
+2800.00
+2450.00 - 3100.00
+0,0.2,hp,elitebook,820g3,12inch,compact
+194253001073
+
+0.2574
+HP ZBook 15 G3 Core i7 16GB 512GB SSD 4GB GPU
+0
+0.2
+5200.00
+4700.00 - 5700.00
+0,0.2,hp,zbook,15g3,workstation,graphics,quadro
+194253001074
+
+0.2575
+HP ZBook 15 G5 Core i7 16GB 512GB SSD 4GB GPU
+0
+0.2
+6900.00
+6300.00 - 7500.00
+0,0.2,hp,zbook,15g5,workstation,quadro,engineering
+194253001075
+
+0.2576
+Dell Precision 3530 Core i7 16GB 512GB SSD 4GB GPU
+0
+0.2
+5800.00
+5200.00 - 6300.00
+0,0.2,dell,precision,3530,workstation,cad
+880609001076
+
+0.2577
+Lenovo ThinkPad P50 Core i7 16GB 512GB SSD 4GB GPU
+0
+0.2
+5500.00
+4900.00 - 6000.00
+0,0.2,lenovo,thinkpad,p50,workstation,quadro
+194253001077
+
+0.2578
+Lenovo ThinkPad P52 Core i7 16GB 512GB SSD 6GB GPU
+0
+0.2
+7200.00
+6600.00 - 7800.00
+0,0.2,lenovo,thinkpad,p52,workstation,quadro
+194253001078
+
+0.2579
+HP Spectre x360 13 Core i7 8th Gen 16GB 512GB Touch
+0
+0.2
+5900.00
+5300.00 - 6400.00
+0,0.2,hp,spectre,x360,touch,4k,slim
+194253001079
+
+0.2580
+HP Envy 13 Core i7 10th Gen 16GB 512GB SSD
+0
+0.2
+6400.00
+5800.00 - 6900.00
+0,0.2,hp,envy13,corei7,gold,ultrabook
+194253001080
+
+0.2581
+Dell Chromebook 11 Celeron 4GB 16GB eMMC
+0
+0.2
+1200.00
+1000.00 - 1400.00
+0,0.2,dell,chromebook11,cheap,student,jhs
+880609001081
+
+0.2582
+HP Chromebook 11 G5 Celeron 4GB 16GB eMMC
+0
+0.2
+1250.00
+1050.00 - 1450.00
+0,0.2,hp,chromebook11,g5,cheap,shs
+194253001082
+
+0.2583
+Acer Chromebook 11 Celeron 4GB 32GB eMMC
+0
+0.2
+1300.00
+1100.00 - 1500.00
+0,0.2,acer,chromebook11,cheap,browser
+694181001083
+
+0.2584
+Lenovo Chromebook 100e Celeron 4GB 32GB eMMC
+0
+0.2
+1350.00
+1150.00 - 1550.00
+0,0.2,lenovo,chromebook,100e,student,entry
+194253001084
+
+0.2585
+Samsung Chromebook 3 Celeron 4GB 32GB eMMC
+0
+0.2
+1400.00
+1200.00 - 1600.00
+0,0.2,samsung,chromebook3,light,cheap
+880609001085
+
+0.2586
+Infinix INBook X1 Core i3 8GB 256GB SSD
+0
+0.2
+3200.00
+2850.00 - 3500.00
+0,0.2,infinix,inbookx1,corei3,metal,student
+489512001086
+
+0.2587
+Tecno Megabook T1 Core i3 8GB 256GB SSD
+0
+0.2
+3400.00
+3000.00 - 3750.00
+0,0.2,tecno,megabook,t1,corei3,slim
+489512001087
+
+0.2588
+Apple MacBook Air M1 8GB 512GB SSD
+0
+0.2
+9500.00
+8900.00 - 10200.00
+0,0.2,apple,macbookair,m1,512gb,popular
+194253001088
+
+0.2589
+Apple MacBook Pro 13 M1 8GB 512GB SSD
+0
+0.2
+10800.00
+10000.00 - 11600.00
+0,0.2,apple,macbookpro,m1,512gb,creator
+194253001089
+
+0.2590
+Dell Latitude 7420 Core i5 11th Gen 16GB 512GB SSD
+0
+0.2
+6200.00
+5700.00 - 6700.00
+0,0.2,dell,latitude,7420,corei5,11thgen,executive
+880609001090
