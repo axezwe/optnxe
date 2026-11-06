@@ -24,3 +24,2794 @@ Geisha Mackerel 155g
 13.50 - 18.00
 10,10.1
 7123456789013
+
+0.1001
+Apple iPhone 15 Pro Max 256GB
+0
+0.1
+18500.00
+17500.00 - 19500.00
+0,0.1,iphone,apple,ios,smartphone
+194253000001
+
+0.1002
+Samsung Galaxy S24 Ultra 512GB
+0
+0.1
+19800.00
+18900.00 - 21000.00
+0,0.1,samsung,galaxy,android,flagship
+880609000002
+
+0.1003
+Tecno Camon 30 Pro 5G 256GB
+0
+0.1
+4850.00
+4500.00 - 5200.00
+0,0.1,tecno,camon,android,5g
+489512000003
+
+0.1004
+Infinix Note 40 Pro 256GB
+0
+0.1
+3950.00
+3700.00 - 4200.00
+0,0.1,infinix,note,android,phone
+489512000004
+
+0.1005
+Xiaomi Redmi Note 13 Pro+ 5G
+0
+0.1
+5400.00
+5100.00 - 5800.00
+0,0.1,xiaomi,redmi,android,smartphone
+694181000005
+
+0.1006
+Google Pixel 8 Pro 128GB
+0
+0.1
+12500.00
+11800.00 - 13200.00
+0,0.1,google,pixel,android,camera
+840244000006
+
+0.1007
+Samsung Galaxy A55 5G 256GB
+0
+0.1
+5900.00
+5500.00 - 6300.00
+0,0.1,samsung,galaxy,a55,android
+880609000007
+
+0.1008
+itel S24 128GB
+0
+0.1
+1650.00
+1500.00 - 1800.00
+0,0.1,itel,budget,entry,android
+489512000008
+
+0.1009
+Honor Magic 6 Pro 512GB
+0
+0.1
+16200.00
+15500.00 - 17000.00
+0,0.1,honor,magic,flagship,android
+694181000009
+
+0.1010
+OnePlus 12 512GB
+0
+0.1
+14200.00
+13500.00 - 15000.00
+0,0.1,oneplus,android,flagship,fastcharge
+694181000010
+
+0.1261
+Apple iPhone 14 Pro Max 256GB
+0
+0.1
+15500.00
+14500.00 - 16500.00
+0,0.1,iphone,apple,ios,promax,iphone14
+194253000261
+
+0.1262
+Apple iPhone 14 Plus 128GB
+0
+0.1
+12500.00
+11600.00 - 13400.00
+0,0.1,iphone,apple,ios,plus,iphone14
+194253000262
+
+0.1263
+Apple iPhone 12 Mini 64GB
+0
+0.1
+4800.00
+4400.00 - 5300.00
+0,0.1,iphone,apple,ios,mini,iphone12
+194253000263
+
+0.1264
+Apple iPhone SE (2020) 64GB
+0
+0.1
+3200.00
+2900.00 - 3550.00
+0,0.1,iphone,apple,ios,se2020,budget
+194253000264
+
+0.1265
+Samsung Galaxy S22+ 256GB
+0
+0.1
+8900.00
+8200.00 - 9700.00
+0,0.1,samsung,galaxy,s22plus,android
+880609000265
+
+0.1266
+Samsung Galaxy S22 128GB
+0
+0.1
+7500.00
+6900.00 - 8200.00
+0,0.1,samsung,galaxy,s22,android
+880609000266
+
+0.1267
+Samsung Galaxy Note 20 256GB
+0
+0.1
+5200.00
+4800.00 - 5700.00
+0,0.1,samsung,galaxy,note20,android
+880609000267
+
+0.1268
+Samsung Galaxy A52s 5G 128GB
+0
+0.1
+3400.00
+3100.00 - 3750.00
+0,0.1,samsung,galaxy,a52s,5g
+880609000268
+
+0.1269
+Samsung Galaxy A23 128GB
+0
+0.1
+2100.00
+1900.00 - 2350.00
+0,0.1,samsung,galaxy,a23,budget
+880609000269
+
+0.1270
+Samsung Galaxy XCover 7 Rugged
+0
+0.1
+4200.00
+3850.00 - 4600.00
+0,0.1,samsung,xcover7,rugged,enterprise
+880609000270
+
+0.1271
+Tecno Spark 20C 128GB
+0
+0.1
+1800.00
+1650.00 - 1980.00
+0,0.1,tecno,spark20c,entry,budget
+489512000271
+
+0.1272
+Tecno Pova 4 Pro 256GB
+0
+0.1
+2400.00
+2200.00 - 2650.00
+0,0.1,tecno,pova4pro,gaming,battery
+489512000272
+
+0.1273
+Tecno Camon 18 Premier 256GB
+0
+0.1
+2600.00
+2350.00 - 2900.00
+0,0.1,tecno,camon18,gimbal,camera
+489512000273
+
+0.1274
+Infinix Note 12 2023 128GB
+0
+0.1
+2450.00
+2250.00 - 2700.00
+0,0.1,infinix,note12,android,phone
+489512000274
+
+0.1275
+Infinix Hot 12 Play 64GB
+0
+0.1
+1350.00
+1200.00 - 1500.00
+0,0.1,infinix,hot12play,battery,entry
+489512000275
+
+0.1276
+Xiaomi 12T Pro 256GB
+0
+0.1
+7800.00
+7200.00 - 8500.00
+0,0.1,xiaomi,12tpro,200mp,camera
+694181000276
+
+0.1277
+Xiaomi 12 Pro 256GB
+0
+0.1
+8200.00
+7500.00 - 8900.00
+0,0.1,xiaomi,12pro,flagship,android
+694181000277
+
+0.1278
+Xiaomi Redmi 10 2022 128GB
+0
+0.1
+1650.00
+1500.00 - 1850.00
+0,0.1,xiaomi,redmi10,budget,entry
+694181000278
+
+0.1279
+Xiaomi Poco X5 Pro 5G 256GB
+0
+0.1
+4500.00
+4150.00 - 4950.00
+0,0.1,xiaomi,pocox5pro,5g,gaming
+694181000279
+
+0.1280
+Xiaomi Poco X5 5G 128GB
+0
+0.1
+3400.00
+3100.00 - 3750.00
+0,0.1,xiaomi,pocox5,5g,android
+694181000280
+
+0.1281
+Google Pixel 4a 128GB
+0
+0.1
+1950.00
+1750.00 - 2200.00
+0,0.1,google,pixel,pixel4a,compact
+840244000281
+
+0.1282
+Google Pixel 5a 5G 128GB
+0
+0.1
+2900.00
+2600.00 - 3250.00
+0,0.1,google,pixel,pixel5a,5g
+840244000282
+
+0.1283
+Oppo Reno 7 5G 256GB
+0
+0.1
+4100.00
+3750.00 - 4500.00
+0,0.1,oppo,reno7,5g,android
+694181000283
+
+0.1284
+Oppo A77s 128GB
+0
+0.1
+2400.00
+2150.00 - 2700.00
+0,0.1,oppo,a77s,budget,phone
+694181000284
+
+0.1285
+Oppo A16 64GB
+0
+0.1
+1450.00
+1300.00 - 1650.00
+0,0.1,oppo,a16,entry,budget
+694181000285
+
+0.1286
+Vivo V25 Pro 5G 256GB
+0
+0.1
+5500.00
+5000.00 - 6100.00
+0,0.1,vivo,v25pro,colorchanging,5g
+694181000286
+
+0.1287
+Vivo V25 5G 256GB
+0
+0.1
+4200.00
+3850.00 - 4600.00
+0,0.1,vivo,v25,colorchanging,camera
+694181000287
+
+0.1288
+Vivo Y22 128GB
+0
+0.1
+1850.00
+1700.00 - 2050.00
+0,0.1,vivo,y22,budget,android
+694181000288
+
+0.1289
+Realme 9 Pro+ 5G 128GB
+0
+0.1
+3800.00
+3500.00 - 4200.00
+0,0.1,realme,9proplus,sonyimx766,5g
+694181000289
+
+0.1290
+Realme C33 64GB
+0
+0.1
+1450.00
+1300.00 - 1650.00
+0,0.1,realme,c33,entry,budget
+694181000290
+
+0.1291
+Honor X8a 128GB
+0
+0.1
+2450.00
+2250.00 - 2700.00
+0,0.1,honor,x8a,camera,budget
+694181000291
+
+0.1292
+Honor Magic 4 Pro 256GB
+0
+0.1
+7900.00
+7300.00 - 8600.00
+0,0.1,honor,magic4pro,flagship
+694181000292
+
+0.1293
+OnePlus 10 Pro 5G 256GB
+0
+0.1
+6800.00
+6200.00 - 7500.00
+0,0.1,oneplus,10pro,hasselblad,5g
+694181000293
+
+0.1294
+OnePlus Nord 2T 5G 128GB
+0
+0.1
+3900.00
+3550.00 - 4300.00
+0,0.1,oneplus,nord2t,fastcharge,5g
+694181000294
+
+0.1295
+Motorola Edge 30 Pro 256GB
+0
+0.1
+5900.00
+5400.00 - 6500.00
+0,0.1,motorola,edge30pro,snapdragon8gen1
+840244000295
+
+0.1296
+Motorola Moto G54 5G 256GB
+0
+0.1
+2800.00
+2550.00 - 3100.00
+0,0.1,motorola,motog54,5g,budget
+840244000296
+
+0.1297
+itel P38 Pro 64GB
+0
+0.1
+1150.00
+1000.00 - 1300.00
+0,0.1,itel,p38pro,battery,entry
+489512000297
+
+0.1298
+Nokia G60 5G 128GB
+0
+0.1
+2700.00
+2450.00 - 3000.00
+0,0.1,nokia,g60,eco,5g,repairable
+643840000298
+
+0.1299
+ZTE Blade V41 Vita 128GB
+0
+0.1
+1800.00
+1650.00 - 2000.00
+0,0.1,zte,bladev41,budget,android
+694181000299
+
+0.1300
+Ulefone Armor 12S 5G Rugged
+0
+0.1
+4500.00
+4100.00 - 4950.00
+0,0.1,ulefone,armor12s,rugged,antibacterial
+694181000300
+
+0.1301
+Apple iPhone XS 64GB
+0
+0.1
+2300.00
+2100.00 - 2550.00
+0,0.1,iphone,apple,ios,xs
+194253000301
+
+0.1302
+Apple iPhone 8 Plus 64GB
+0
+0.1
+1850.00
+1700.00 - 2050.00
+0,0.1,iphone,apple,ios,iphone8plus
+194253000302
+
+0.1303
+Samsung Galaxy S20 Ultra 128GB
+0
+0.1
+5800.00
+5300.00 - 6400.00
+0,0.1,samsung,galaxy,s20ultra,android
+880609000303
+
+0.1304
+Samsung Galaxy Note 10 256GB
+0
+0.1
+3900.00
+3550.00 - 4300.00
+0,0.1,samsung,galaxy,note10,android
+880609000304
+
+0.1305
+Tecno Camon 17 Pro 256GB
+0
+0.1
+2100.00
+1900.00 - 2350.00
+0,0.1,tecno,camon17pro,android
+489512000305
+
+0.1306
+Infinix Zero X Pro 128GB
+0
+0.1
+2500.00
+2300.00 - 2750.00
+0,0.1,infinix,zeroxpro,periscope
+489512000306
+
+0.1307
+Xiaomi Mi 11 Ultra 256GB
+0
+0.1
+7500.00
+6900.00 - 8200.00
+0,0.1,xiaomi,mi11ultra,flagship,backscreen
+694181000307
+
+0.1308
+Oppo Reno 6 Pro 5G 256GB
+0
+0.1
+4600.00
+4200.00 - 5100.00
+0,0.1,oppo,reno6pro,5g,android
+694181000308
+
+0.1309
+Vivo X80 Pro 256GB
+0
+0.1
+8500.00
+7800.00 - 9300.00
+0,0.1,vivo,x80pro,zeiss,flagship
+694181000309
+
+0.1310
+Realme 9i 128GB
+0
+0.1
+1900.00
+1750.00 - 2100.00
+0,0.1,realme,9i,budget,android
+694181000310
+
+0.1211
+Apple iPhone 16 Pro Max 1TB
+0
+0.1
+28500.00
+27000.00 - 30000.00
+0,0.1,iphone,apple,ios,iphone16,flagship,1tb
+194253000211
+
+0.1212
+Apple iPhone 15 Pro 128GB
+0
+0.1
+15800.00
+14900.00 - 16800.00
+0,0.1,iphone,apple,ios,pro,iphone15
+194253000212
+
+0.1213
+Apple iPhone 13 Pro Max 256GB
+0
+0.1
+10800.00
+10000.00 - 11600.00
+0,0.1,iphone,apple,ios,promax,iphone13
+194253000213
+
+0.1214
+Apple iPhone 13 Pro 128GB
+0
+0.1
+9200.00
+8500.00 - 9900.00
+0,0.1,iphone,apple,ios,pro,iphone13
+194253000214
+
+0.1215
+Samsung Galaxy S24 FE 256GB
+0
+0.1
+9500.00
+8900.00 - 10200.00
+0,0.1,samsung,galaxy,s24fe,android,smartphone
+880609000215
+
+0.1216
+Samsung Galaxy Z Fold 4 256GB
+0
+0.1
+14800.00
+13800.00 - 15900.00
+0,0.1,samsung,galaxy,zfold4,foldable,android
+880609000216
+
+0.1217
+Samsung Galaxy Z Flip 4 128GB
+0
+0.1
+7800.00
+7200.00 - 8500.00
+0,0.1,samsung,galaxy,zflip4,flip,android
+880609000217
+
+0.1218
+Samsung Galaxy A06 64GB
+0
+0.1
+1650.00
+1500.00 - 1800.00
+0,0.1,samsung,galaxy,a06,budget,entry
+880609000218
+
+0.1219
+Samsung Galaxy A05 64GB
+0
+0.1
+1400.00
+1250.00 - 1550.00
+0,0.1,samsung,galaxy,a05,entry,budget
+880609000219
+
+0.1220
+Tecno Camon 30 LOEWE Edition 5G
+0
+0.1
+4950.00
+4600.00 - 5300.00
+0,0.1,tecno,camon,camon30,loewe,specialedition
+489512000220
+
+0.1221
+Tecno Spark 20 Pro 256GB
+0
+0.1
+2650.00
+2450.00 - 2900.00
+0,0.1,tecno,spark,spark20pro,android,budget
+489512000221
+
+0.1222
+Tecno Pop 8 Pro 128GB
+0
+0.1
+1650.00
+1500.00 - 1800.00
+0,0.1,tecno,pop,pop8pro,entry,budget
+489512000222
+
+0.1223
+Tecno Spark Go 2024 64GB
+0
+0.1
+1250.00
+1100.00 - 1400.00
+0,0.1,tecno,sparkgo,entry,budget,android
+489512000223
+
+0.1224
+Infinix GT 20 Pro 5G 256GB
+0
+0.1
+4800.00
+4400.00 - 5200.00
+0,0.1,infinix,gt20pro,gaming,5g,android
+489512000224
+
+0.1225
+Infinix GT 10 Pro 5G 256GB
+0
+0.1
+3900.00
+3600.00 - 4300.00
+0,0.1,infinix,gt10pro,gaming,android
+489512000225
+
+0.1226
+Infinix Note 40 Pro+ 5G 256GB
+0
+0.1
+4950.00
+4600.00 - 5350.00
+0,0.1,infinix,note40pro,5g,fastcharge
+489512000226
+
+0.1227
+Infinix Smart 8 Pro 128GB
+0
+0.1
+1550.00
+1400.00 - 1700.00
+0,0.1,infinix,smart8pro,entry,budget
+489512000227
+
+0.1228
+Xiaomi 13T 256GB
+0
+0.1
+7200.00
+6700.00 - 7800.00
+0,0.1,xiaomi,xiaomi13t,leica,android
+694181000228
+
+0.1229
+Xiaomi Redmi Note 13 Pro 4G 256GB
+0
+0.1
+4200.00
+3900.00 - 4600.00
+0,0.1,xiaomi,redmi,note13pro,android
+694181000229
+
+0.1230
+Xiaomi Redmi Note 13 5G 256GB
+0
+0.1
+3450.00
+3200.00 - 3750.00
+0,0.1,xiaomi,redmi,note135g,budget
+694181000230
+
+0.1231
+Xiaomi Poco F6 Pro 512GB
+0
+0.1
+8500.00
+7900.00 - 9100.00
+0,0.1,xiaomi,poco,pocof6pro,gaming,flagship
+694181000231
+
+0.1232
+Xiaomi Poco F6 256GB
+0
+0.1
+6200.00
+5700.00 - 6700.00
+0,0.1,xiaomi,poco,pocof6,gaming,android
+694181000232
+
+0.1233
+Xiaomi Redmi A3 64GB
+0
+0.1
+1250.00
+1100.00 - 1400.00
+0,0.1,xiaomi,redmi,redmia3,entry,budget
+694181000233
+
+0.1234
+Google Pixel 7 128GB
+0
+0.1
+5800.00
+5300.00 - 6300.00
+0,0.1,google,pixel,pixel7,android,camera
+840244000234
+
+0.1235
+Google Pixel Fold 256GB
+0
+0.1
+16500.00
+15200.00 - 17800.00
+0,0.1,google,pixel,fold,foldable,android
+840244000235
+
+0.1236
+Oppo Find N3 Flip 256GB
+0
+0.1
+12800.00
+11900.00 - 13800.00
+0,0.1,oppo,findn3,flip,foldable,camera
+694181000236
+
+0.1237
+Oppo Reno 11 F 5G 256GB
+0
+0.1
+4400.00
+4000.00 - 4800.00
+0,0.1,oppo,reno11f,5g,android,phone
+694181000237
+
+0.1238
+Oppo A3 128GB
+0
+0.1
+1950.00
+1800.00 - 2150.00
+0,0.1,oppo,a3,android,budget,durable
+694181000238
+
+0.1239
+Vivo X100 Pro 512GB
+0
+0.1
+13500.00
+12600.00 - 14500.00
+0,0.1,vivo,x100pro,zeiss,camera,flagship
+694181000239
+
+0.1240
+Vivo X100 256GB
+0
+0.1
+10500.00
+9800.00 - 11300.00
+0,0.1,vivo,x100,zeiss,flagship,android
+694181000240
+
+0.1241
+Vivo Y100 5G 256GB
+0
+0.1
+3600.00
+3300.00 - 3950.00
+0,0.1,vivo,y100,5g,amoled,style
+694181000241
+
+0.1242
+Vivo Y03 64GB
+0
+0.1
+1350.00
+1200.00 - 1500.00
+0,0.1,vivo,y03,entry,budget,android
+694181000242
+
+0.1243
+Realme GT 6 512GB
+0
+0.1
+8200.00
+7600.00 - 8900.00
+0,0.1,realme,gt6,flagshipkiller,android
+694181000243
+
+0.1244
+Realme GT 6T 256GB
+0
+0.1
+6200.00
+5700.00 - 6700.00
+0,0.1,realme,gt6t,performance,fastcharge
+694181000244
+
+0.1245
+Realme 12 5G 128GB
+0
+0.1
+3200.00
+2950.00 - 3500.00
+0,0.1,realme,realme12,5g,budget
+694181000245
+
+0.1246
+Realme C63 128GB
+0
+0.1
+1850.00
+1700.00 - 2050.00
+0,0.1,realme,c63,entry,leatherdesign
+694181000246
+
+0.1247
+Honor Magic 6 Lite 5G 256GB
+0
+0.1
+4500.00
+4100.00 - 4900.00
+0,0.1,honor,magic6lite,curved,durable
+694181000247
+
+0.1248
+Honor X9b 5G 256GB
+0
+0.1
+4200.00
+3850.00 - 4600.00
+0,0.1,honor,x9b,anti-drop,5g,battery
+694181000248
+
+0.1249
+Honor X5 Plus 64GB
+0
+0.1
+1350.00
+1200.00 - 1500.00
+0,0.1,honor,x5plus,entry,budget
+694181000249
+
+0.1250
+OnePlus 12R 256GB
+0
+0.1
+8800.00
+8200.00 - 9500.00
+0,0.1,oneplus,12r,performance,gaming
+694181000250
+
+0.1251
+OnePlus Open 512GB
+0
+0.1
+22800.00
+21500.00 - 24200.00
+0,0.1,oneplus,open,foldable,hasselblad
+694181000251
+
+0.1252
+OnePlus Nord CE 4 5G 256GB
+0
+0.1
+4600.00
+4200.00 - 5000.00
+0,0.1,oneplus,nord,nordce4,5g
+694181000252
+
+0.1253
+Motorola Edge 50 Fusion 256GB
+0
+0.1
+5200.00
+4750.00 - 5700.00
+0,0.1,motorola,edge50fusion,curved,android
+840244000253
+
+0.1254
+Motorola Moto G04 64GB
+0
+0.1
+1350.00
+1200.00 - 1500.00
+0,0.1,motorola,motog04,entry,budget
+840244000254
+
+0.1255
+itel P55 T 128GB
+0
+0.1
+1550.00
+1400.00 - 1700.00
+0,0.1,itel,p55t,androidgo,battery
+489512000255
+
+0.1256
+itel A05s 32GB
+0
+0.1
+980.00
+880.00 - 1100.00
+0,0.1,itel,a05s,entry,cheap
+489512000256
+
+0.1257
+NMD HMD Pulse 64GB
+0
+0.1
+1650.00
+1500.00 - 1800.00
+0,0.1,hmd,pulse,repairable,android
+643840000257
+
+0.1258
+Nokia G42 5G 256GB
+0
+0.1
+3600.00
+3300.00 - 3950.00
+0,0.1,nokia,g42,5g,repairable
+643840000258
+
+0.1259
+Ulefone Armor 26 Ultra 5G
+0
+0.1
+8900.00
+8200.00 - 9600.00
+0,0.1,ulefone,armor26,rugged,speaker,battery
+694181000259
+
+0.1260
+Blackview BV8900 Thermal Camera Phone
+0
+0.1
+6400.00
+5900.00 - 6900.00
+0,0.1,blackview,bv8900,rugged,flir,thermal
+694181000260
+
+0.1161
+Apple iPhone 12 Pro Max 128GB
+0
+0.1
+7800.00
+7200.00 - 8400.00
+0,0.1,iphone,apple,ios,promax
+194253000161
+
+0.1162
+Apple iPhone 12 Pro 128GB
+0
+0.1
+6800.00
+6300.00 - 7400.00
+0,0.1,iphone,apple,ios,pro
+194253000162
+
+0.1163
+Apple iPhone 11 Pro Max 256GB
+0
+0.1
+5800.00
+5300.00 - 6400.00
+0,0.1,iphone,apple,ios,promax
+194253000163
+
+0.1164
+Apple iPhone 11 Pro 64GB
+0
+0.1
+4900.00
+4500.00 - 5400.00
+0,0.1,iphone,apple,ios,pro
+194253000164
+
+0.1165
+Apple iPhone XR 64GB
+0
+0.1
+3200.00
+2900.00 - 3600.00
+0,0.1,iphone,apple,ios,xr
+194253000165
+
+0.1166
+Apple iPhone X 64GB
+0
+0.1
+2800.00
+2500.00 - 3150.00
+0,0.1,iphone,apple,ios,iphonex
+194253000166
+
+0.1167
+Samsung Galaxy Note 20 Ultra 5G
+0
+0.1
+7500.00
+6900.00 - 8200.00
+0,0.1,samsung,galaxy,note20,ultra
+880609000167
+
+0.1168
+Samsung Galaxy Note 10+ 256GB
+0
+0.1
+5100.00
+4700.00 - 5600.00
+0,0.1,samsung,galaxy,note10,android
+880609000168
+
+0.1169
+Samsung Galaxy S20 FE 5G 128GB
+0
+0.1
+3800.00
+3400.00 - 4200.00
+0,0.1,samsung,galaxy,s20fe,android
+880609000169
+
+0.1170
+Samsung Galaxy A73 5G 256GB
+0
+0.1
+4900.00
+4500.00 - 5400.00
+0,0.1,samsung,galaxy,a73,android
+880609000170
+
+0.1171
+Samsung Galaxy A53 5G 128GB
+0
+0.1
+3800.00
+3450.00 - 4200.00
+0,0.1,samsung,galaxy,a53,android
+880609000171
+
+0.1172
+Samsung Galaxy A33 5G 128GB
+0
+0.1
+2900.00
+2650.00 - 3200.00
+0,0.1,samsung,galaxy,a33,android
+880609000172
+
+0.1173
+Samsung Galaxy A24 128GB
+0
+0.1
+2500.00
+2300.00 - 2750.00
+0,0.1,samsung,galaxy,a24,android
+880609000173
+
+0.1174
+Samsung Galaxy A14 4G 128GB
+0
+0.1
+1850.00
+1700.00 - 2050.00
+0,0.1,samsung,galaxy,a14,budget
+880609000174
+
+0.1175
+Samsung Galaxy A04s 64GB
+0
+0.1
+1450.00
+1300.00 - 1600.00
+0,0.1,samsung,galaxy,a04s,entry
+880609000175
+
+0.1176
+Tecno Phantom V Flip2 5G
+0
+0.1
+9800.00
+9100.00 - 10500.00
+0,0.1,tecno,phantom,vflip2,flip
+489512000176
+
+0.1177
+Tecno Camon 30 5G 256GB
+0
+0.1
+3800.00
+3500.00 - 4150.00
+0,0.1,tecno,camon,camon30,5g
+489512000177
+
+0.1178
+Tecno Camon 19 Pro 256GB
+0
+0.1
+2900.00
+2650.00 - 3200.00
+0,0.1,tecno,camon,camon19,android
+489512000178
+
+0.1179
+Tecno Spark 10 Pro 128GB
+0
+0.1
+1950.00
+1800.00 - 2150.00
+0,0.1,tecno,spark,spark10pro,android
+489512000179
+
+0.1180
+Tecno Spark 9 Pro 128GB
+0
+0.1
+1650.00
+1500.00 - 1800.00
+0,0.1,tecno,spark,spark9,budget
+489512000180
+
+0.1181
+Tecno Pop 7 Pro 64GB
+0
+0.1
+1150.00
+1000.00 - 1300.00
+0,0.1,tecno,pop,pop7,entry
+489512000181
+
+0.1182
+Infinix Zero Ultra 256GB
+0
+0.1
+6200.00
+5700.00 - 6800.00
+0,0.1,infinix,zero,zeroultra,android
+489512000182
+
+0.1183
+Infinix Note 30 VIP 256GB
+0
+0.1
+4600.00
+4200.00 - 5000.00
+0,0.1,infinix,note,note30vip,android
+489512000183
+
+0.1184
+Infinix Note 12 VIP 256GB
+0
+0.1
+3100.00
+2800.00 - 3450.00
+0,0.1,infinix,note,note12,android
+489512000184
+
+0.1185
+Infinix Hot 20i 64GB
+0
+0.1
+1450.00
+1300.00 - 1600.00
+0,0.1,infinix,hot,hot20i,budget
+489512000185
+
+0.1186
+Infinix Smart 6 HD 32GB
+0
+0.1
+950.00
+850.00 - 1100.00
+0,0.1,infinix,smart,smart6,entry
+489512000186
+
+0.1187
+Xiaomi 13T Pro 512GB
+0
+0.1
+9500.00
+8800.00 - 10200.00
+0,0.1,xiaomi,xiaomi13t,pro,5g
+694181000187
+
+0.1188
+Xiaomi 13 Pro 256GB
+0
+0.1
+10500.00
+9800.00 - 11400.00
+0,0.1,xiaomi,xiaomi13,pro,flagship
+694181000188
+
+0.1189
+Xiaomi Redmi Note 11 Pro 5G 128GB
+0
+0.1
+3100.00
+2850.00 - 3400.00
+0,0.1,xiaomi,redmi,note11,pro
+694181000189
+
+0.1190
+Xiaomi Redmi Note 11 128GB
+0
+0.1
+2100.00
+1900.00 - 2350.00
+0,0.1,xiaomi,redmi,note11,android
+694181000190
+
+0.1191
+Xiaomi Redmi 12 128GB
+0
+0.1
+1750.00
+1600.00 - 1950.00
+0,0.1,xiaomi,redmi,redmi12,budget
+694181000191
+
+0.1192
+Xiaomi Poco F5 Pro 512GB
+0
+0.1
+7500.00
+6900.00 - 8100.00
+0,0.1,xiaomi,poco,pocof5,gaming
+694181000192
+
+0.1193
+Google Pixel 6 Pro 128GB
+0
+0.1
+5400.00
+4900.00 - 5900.00
+0,0.1,google,pixel,pixel6pro,android
+840244000193
+
+0.1194
+Google Pixel 6 128GB
+0
+0.1
+3900.00
+3500.00 - 4300.00
+0,0.1,google,pixel,pixel6,android
+840244000194
+
+0.1195
+Google Pixel 5 128GB
+0
+0.1
+2800.00
+2500.00 - 3150.00
+0,0.1,google,pixel,pixel5,android
+840244000195
+
+0.1196
+Oppo Find X6 Pro 256GB
+0
+0.1
+11500.00
+10600.00 - 12400.00
+0,0.1,oppo,findx6,pro,flagship
+694181000196
+
+0.1197
+Oppo Reno 8 Pro 5G 256GB
+0
+0.1
+5200.00
+4800.00 - 5700.00
+0,0.1,oppo,reno,reno8,android
+694181000197
+
+0.1198
+Oppo A78 5G 128GB
+0
+0.1
+2950.00
+2700.00 - 3250.00
+0,0.1,oppo,a78,5g,android
+694181000198
+
+0.1199
+Oppo A57 64GB
+0
+0.1
+1750.00
+1600.00 - 1950.00
+0,0.1,oppo,a57,budget,android
+694181000199
+
+0.1200
+Vivo X90 Pro 512GB
+0
+0.1
+11800.00
+10900.00 - 12800.00
+0,0.1,vivo,x90pro,flagship,zeiss
+694181000200
+
+0.1201
+Vivo V27 5G 256GB
+0
+0.1
+4800.00
+4400.00 - 5300.00
+0,0.1,vivo,v27,5g,android
+694181000201
+
+0.1202
+Vivo Y27s 128GB
+0
+0.1
+2200.00
+2000.00 - 2450.00
+0,0.1,vivo,y27s,budget,android
+694181000202
+
+0.1203
+Realme GT Neo 5 256GB
+0
+0.1
+5800.00
+5300.00 - 6400.00
+0,0.1,realme,gtneo5,gaming,fastcharge
+694181000203
+
+0.1204
+Realme 10 Pro+ 5G 128GB
+0
+0.1
+3900.00
+3550.00 - 4300.00
+0,0.1,realme,realme10,pro,5g
+694181000204
+
+0.1205
+Realme C35 64GB
+0
+0.1
+1550.00
+1400.00 - 1700.00
+0,0.1,realme,c35,budget,android
+694181000205
+
+0.1206
+Honor Magic 5 Pro 512GB
+0
+0.1
+11200.00
+10300.00 - 12100.00
+0,0.1,honor,magic5,pro,flagship
+694181000206
+
+0.1207
+Honor 90 256GB
+0
+0.1
+5400.00
+4900.00 - 5900.00
+0,0.1,honor,honor90,android,phone
+694181000207
+
+0.1208
+Honor X7b 128GB
+0
+0.1
+2300.00
+2100.00 - 2550.00
+0,0.1,honor,x7b,budget,android
+694181000208
+
+0.1209
+OnePlus 11 256GB
+0
+0.1
+9200.00
+8500.00 - 10000.00
+0,0.1,oneplus,oneplus11,flagship
+694181000209
+
+0.1210
+Motorola Razr 40 Ultra
+0
+0.1
+12500.00
+11500.00 - 13600.00
+0,0.1,motorola,razr40,flip,foldable
+840244000210
+
+0.1111
+Apple iPhone 16 Pro Max 512GB
+0
+0.1
+24500.00
+23000.00 - 26000.00
+0,0.1,iphone,apple,ios,iphone16,flagship
+194253000111
+
+0.1112
+Apple iPhone 16 Pro 256GB
+0
+0.1
+20500.00
+19200.00 - 21800.00
+0,0.1,iphone,apple,ios,iphone16,pro
+194253000112
+
+0.1113
+Apple iPhone 16 Plus 256GB
+0
+0.1
+16800.00
+15800.00 - 17800.00
+0,0.1,iphone,apple,ios,iphone16,plus
+194253000113
+
+0.1114
+Apple iPhone 16 128GB
+0
+0.1
+14200.00
+13400.00 - 15000.00
+0,0.1,iphone,apple,ios,iphone16,smartphone
+194253000114
+
+0.1115
+Samsung Galaxy S25 Ultra 512GB
+0
+0.1
+22500.00
+21000.00 - 24000.00
+0,0.1,samsung,galaxy,s25,ultra,flagship
+880609000115
+
+0.1116
+Samsung Galaxy S25+ 256GB
+0
+0.1
+16500.00
+15500.00 - 17500.00
+0,0.1,samsung,galaxy,s25,android,plus
+880609000116
+
+0.1117
+Samsung Galaxy S25 256GB
+0
+0.1
+13800.00
+12900.00 - 14700.00
+0,0.1,samsung,galaxy,s25,android,smartphone
+880609000117
+
+0.1118
+Samsung Galaxy Z Fold 6 512GB
+0
+0.1
+23800.00
+22500.00 - 25000.00
+0,0.1,samsung,galaxy,zfold6,foldable,android
+880609000118
+
+0.1119
+Samsung Galaxy Z Flip 6 256GB
+0
+0.1
+13500.00
+12500.00 - 14500.00
+0,0.1,samsung,galaxy,zflip6,flip,android
+880609000119
+
+0.1120
+Samsung Galaxy A56 5G 256GB
+0
+0.1
+6400.00
+5900.00 - 6900.00
+0,0.1,samsung,galaxy,a56,5g,android
+880609000120
+
+0.1121
+Samsung Galaxy A36 5G 128GB
+0
+0.1
+4800.00
+4400.00 - 5200.00
+0,0.1,samsung,galaxy,a36,5g,android
+880609000121
+
+0.1122
+Samsung Galaxy A16 5G 128GB
+0
+0.1
+2800.00
+2550.00 - 3050.00
+0,0.1,samsung,galaxy,a16,budget,5g
+880609000122
+
+0.1123
+Tecno Camon 40 Pro 5G 256GB
+0
+0.1
+5400.00
+5000.00 - 5800.00
+0,0.1,tecno,camon,camon40,5g,android
+489512000123
+
+0.1124
+Tecno Camon 40 256GB
+0
+0.1
+3800.00
+3500.00 - 4100.00
+0,0.1,tecno,camon,camon40,android,phone
+489512000124
+
+0.1125
+Tecno Spark 30 Pro 256GB
+0
+0.1
+3350.00
+3100.00 - 3600.00
+0,0.1,tecno,spark,spark30,android,budget
+489512000125
+
+0.1126
+Tecno Spark 30 128GB
+0
+0.1
+2150.00
+1950.00 - 2350.00
+0,0.1,tecno,spark,spark30,android,phone
+489512000126
+
+0.1127
+Tecno Pop 9 64GB
+0
+0.1
+1550.00
+1400.00 - 1700.00
+0,0.1,tecno,pop,pop9,entry,budget
+489512000127
+
+0.1128
+Infinix Zero 40 5G 256GB
+0
+0.1
+6500.00
+6000.00 - 7000.00
+0,0.1,infinix,zero,zero40,5g,vlog
+489512000128
+
+0.1129
+Infinix Note 50 Pro 256GB
+0
+0.1
+4400.00
+4100.00 - 4700.00
+0,0.1,infinix,note,note50,android,phone
+489512000129
+
+0.1130
+Infinix Hot 50 Pro+ 256GB
+0
+0.1
+3100.00
+2850.00 - 3350.00
+0,0.1,infinix,hot,hot50,android,gaming
+489512000130
+
+0.1131
+Infinix Hot 50i 128GB
+0
+0.1
+1850.00
+1700.00 - 2000.00
+0,0.1,infinix,hot,hot50i,budget,android
+489512000131
+
+0.1132
+Infinix Smart 9 64GB
+0
+0.1
+1400.00
+1250.00 - 1550.00
+0,0.1,infinix,smart,smart9,entry,budget
+489512000132
+
+0.1133
+Xiaomi 15 Pro 512GB
+0
+0.1
+16800.00
+15800.00 - 17900.00
+0,0.1,xiaomi,xiaomi15,pro,flagship,android
+694181000133
+
+0.1134
+Xiaomi 15 256GB
+0
+0.1
+12600.00
+11800.00 - 13400.00
+0,0.1,xiaomi,xiaomi15,flagship,android
+694181000134
+
+0.1135
+Xiaomi Redmi Note 14 Pro+ 5G
+0
+0.1
+5900.00
+5500.00 - 6300.00
+0,0.1,xiaomi,redmi,note14,5g,android
+694181000135
+
+0.1136
+Xiaomi Redmi Note 14 128GB
+0
+0.1
+3100.00
+2850.00 - 3350.00
+0,0.1,xiaomi,redmi,note14,android,budget
+694181000136
+
+0.1137
+Xiaomi Redmi 14C 128GB
+0
+0.1
+1850.00
+1700.00 - 2000.00
+0,0.1,xiaomi,redmi,redmi14c,entry,budget
+694181000137
+
+0.1138
+Google Pixel 9 Pro XL 256GB
+0
+0.1
+16500.00
+15500.00 - 17500.00
+0,0.1,google,pixel,pixel9pro,xl,flagship
+840244000138
+
+0.1139
+Google Pixel 9 Pro 128GB
+0
+0.1
+14200.00
+13400.00 - 15000.00
+0,0.1,google,pixel,pixel9pro,android
+840244000139
+
+0.1140
+Google Pixel 9 128GB
+0
+0.1
+11200.00
+10500.00 - 11900.00
+0,0.1,google,pixel,pixel9,android,phone
+840244000140
+
+0.1141
+Google Pixel 8a 128GB
+0
+0.1
+7400.00
+6900.00 - 7900.00
+0,0.1,google,pixel,pixel8a,android,budget
+840244000141
+
+0.1142
+Oppo Reno 12 Pro 5G 512GB
+0
+0.1
+8400.00
+7800.00 - 9000.00
+0,0.1,oppo,reno,reno12,5g,camera
+694181000142
+
+0.1143
+Oppo Reno 12 256GB
+0
+0.1
+6100.00
+5700.00 - 6600.00
+0,0.1,oppo,reno,reno12,android,phone
+694181000143
+
+0.1144
+Oppo A60 128GB
+0
+0.1
+2450.00
+2250.00 - 2650.00
+0,0.1,oppo,a60,android,budget,phone
+694181000144
+
+0.1145
+Oppo A3x 64GB
+0
+0.1
+1650.00
+1500.00 - 1800.00
+0,0.1,oppo,a3x,entry,budget,android
+694181000145
+
+0.1146
+Vivo V40 Pro 5G 512GB
+0
+0.1
+9100.00
+8500.00 - 9700.00
+0,0.1,vivo,v40,v40pro,camera,5g
+694181000146
+
+0.1147
+Vivo V40 256GB
+0
+0.1
+6800.00
+6300.00 - 7300.00
+0,0.1,vivo,v40,android,smartphone
+694181000147
+
+0.1148
+Vivo Y29 256GB
+0
+0.1
+2850.00
+2600.00 - 3100.00
+0,0.1,vivo,y29,android,budget,phone
+694181000148
+
+0.1149
+Realme 13 Pro+ 5G 512GB
+0
+0.1
+6900.00
+6400.00 - 7400.00
+0,0.1,realme,realme13,pro,5g,camera
+694181000149
+
+0.1150
+Realme C65 256GB
+0
+0.1
+2350.00
+2150.00 - 2550.00
+0,0.1,realme,c65,android,budget,phone
+694181000150
+
+0.1151
+Honor 200 Pro 512GB
+0
+0.1
+8800.00
+8200.00 - 9400.00
+0,0.1,honor,honor200,pro,flagship
+694181000151
+
+0.1152
+Honor 200 256GB
+0
+0.1
+6400.00
+5900.00 - 6900.00
+0,0.1,honor,honor200,android,phone
+694181000152
+
+0.1153
+Honor X8b 512GB
+0
+0.1
+3700.00
+3400.00 - 4000.00
+0,0.1,honor,x8b,android,budget,storage
+694181000153
+
+0.1154
+Honor X6a 128GB
+0
+0.1
+1950.00
+1800.00 - 2150.00
+0,0.1,honor,x6a,entry,budget,android
+694181000154
+
+0.1155
+itel S24 Pro 256GB
+0
+0.1
+2100.00
+1900.00 - 2300.00
+0,0.1,itel,s24pro,android,budget
+489512000155
+
+0.1156
+itel P55 5G 128GB
+0
+0.1
+1950.00
+1800.00 - 2100.00
+0,0.1,itel,p55,5g,cheap5g,android
+489512000156
+
+0.1157
+Nokia HMD Pulse Pro 128GB
+0
+0.1
+2250.00
+2050.00 - 2450.00
+0,0.1,nokia,hmd,pulsepro,android
+643840000157
+
+0.1158
+OnePlus Nord 4 5G 256GB
+0
+0.1
+7200.00
+6700.00 - 7700.00
+0,0.1,oneplus,nord,nord4,5g,android
+694181000158
+
+0.1159
+Motorola Edge 50 Pro 512GB
+0
+0.1
+7900.00
+7300.00 - 8500.00
+0,0.1,motorola,edge,edge50pro,android
+840244000159
+
+0.1160
+Blackview BL9000 5G Rugged Phone
+0
+0.1
+6800.00
+6300.00 - 7300.00
+0,0.1,blackview,bl9000,rugged,5g
+694181000160
+
+0.1061
+Apple iPhone 13 Mini 128GB
+0
+0.1
+7200.00
+6700.00 - 7800.00
+0,0.1,iphone,apple,ios,mini
+194253000061
+
+0.1062
+Apple iPhone 11 64GB
+0
+0.1
+4800.00
+4300.00 - 5300.00
+0,0.1,iphone,apple,ios,smartphone
+194253000062
+
+0.1063
+Apple iPhone XS Max 256GB
+0
+0.1
+4200.00
+3800.00 - 4600.00
+0,0.1,iphone,apple,ios,xsmax
+194253000063
+
+0.1064
+Samsung Galaxy S22 Ultra 256GB
+0
+0.1
+11500.00
+10800.00 - 12400.00
+0,0.1,samsung,galaxy,s22,ultra
+880609000064
+
+0.1065
+Samsung Galaxy S21 FE 5G 128GB
+0
+0.1
+5400.00
+5000.00 - 5900.00
+0,0.1,samsung,galaxy,s21fe,android
+880609000065
+
+0.1066
+Samsung Galaxy A54 5G 256GB
+0
+0.1
+4800.00
+4400.00 - 5200.00
+0,0.1,samsung,galaxy,a54,android
+880609000066
+
+0.1067
+Samsung Galaxy A34 5G 128GB
+0
+0.1
+3600.00
+3300.00 - 3950.00
+0,0.1,samsung,galaxy,a34,android
+880609000067
+
+0.1068
+Samsung Galaxy A14 5G 64GB
+0
+0.1
+1950.00
+1800.00 - 2150.00
+0,0.1,samsung,galaxy,a14,budget
+880609000068
+
+0.1069
+Tecno Camon 20 Pro 5G 256GB
+0
+0.1
+4500.00
+4100.00 - 4900.00
+0,0.1,tecno,camon,camon20,android
+489512000069
+
+0.1070
+Tecno Camon 20 256GB
+0
+0.1
+3200.00
+2950.00 - 3500.00
+0,0.1,tecno,camon,android,phone
+489512000070
+
+0.1071
+Tecno Spark 10 Pro 256GB
+0
+0.1
+2400.00
+2200.00 - 2650.00
+0,0.1,tecno,spark,spark10,android
+489512000071
+
+0.1072
+Tecno Pova 6 Pro 5G 256GB
+0
+0.1
+4200.00
+3900.00 - 4600.00
+0,0.1,tecno,pova,gaming,android
+489512000072
+
+0.1073
+Tecno Pova 5 Pro 5G 256GB
+0
+0.1
+3400.00
+3100.00 - 3750.00
+0,0.1,tecno,pova,pova5,android
+489512000073
+
+0.1074
+Infinix Note 30 5G 256GB
+0
+0.1
+4000.00
+3700.00 - 4350.00
+0,0.1,infinix,note,note30,android
+489512000074
+
+0.1075
+Infinix Hot 30 128GB
+0
+0.1
+2100.00
+1900.00 - 2300.00
+0,0.1,infinix,hot,hot30,android
+489512000075
+
+0.1076
+Infinix Smart 8 HD 64GB
+0
+0.1
+1300.00
+1150.00 - 1450.00
+0,0.1,infinix,smart,entry,budget
+489512000076
+
+0.1077
+Infinix Smart 7 64GB
+0
+0.1
+1150.00
+1000.00 - 1300.00
+0,0.1,infinix,smart,budget,entry
+489512000077
+
+0.1078
+Xiaomi Redmi Note 12 Pro 5G 256GB
+0
+0.1
+4100.00
+3800.00 - 4500.00
+0,0.1,xiaomi,redmi,note12,android
+694181000078
+
+0.1079
+Xiaomi Redmi Note 12 128GB
+0
+0.1
+2450.00
+2250.00 - 2700.00
+0,0.1,xiaomi,redmi,android,budget
+694181000079
+
+0.1080
+Xiaomi Poco X6 Pro 5G 512GB
+0
+0.1
+6200.00
+5700.00 - 6800.00
+0,0.1,xiaomi,poco,pocox6,gaming
+694181000080
+
+0.1081
+Xiaomi Poco M6 Pro 256GB
+0
+0.1
+3500.00
+3200.00 - 3850.00
+0,0.1,xiaomi,poco,pocom6,android
+694181000081
+
+0.1082
+Xiaomi Poco C65 128GB
+0
+0.1
+1850.00
+1700.00 - 2050.00
+0,0.1,xiaomi,poco,pococ65,budget
+694181000082
+
+0.1083
+Google Pixel 7 Pro 128GB
+0
+0.1
+7800.00
+7200.00 - 8500.00
+0,0.1,google,pixel,pixel7pro,android
+840244000083
+
+0.1084
+Google Pixel 6a 128GB
+0
+0.1
+4500.00
+4100.00 - 4900.00
+0,0.1,google,pixel,pixel6a,android
+840244000084
+
+0.1085
+Oppo Reno 10 Pro 5G 256GB
+0
+0.1
+6800.00
+6300.00 - 7400.00
+0,0.1,oppo,reno,reno10,android
+694181000085
+
+0.1086
+Oppo A98 5G 256GB
+0
+0.1
+4300.00
+3950.00 - 4700.00
+0,0.1,oppo,a98,android,5g
+694181000086
+
+0.1087
+Oppo A58 128GB
+0
+0.1
+2650.00
+2450.00 - 2900.00
+0,0.1,oppo,a58,android,budget
+694181000087
+
+0.1088
+Oppo A18 128GB
+0
+0.1
+1900.00
+1750.00 - 2100.00
+0,0.1,oppo,a18,android,budget
+694181000088
+
+0.1089
+Vivo V29 5G 256GB
+0
+0.1
+5900.00
+5400.00 - 6400.00
+0,0.1,vivo,v29,android,camera
+694181000089
+
+0.1090
+Vivo Y36 128GB
+0
+0.1
+2800.00
+2550.00 - 3100.00
+0,0.1,vivo,y36,android,phone
+694181000090
+
+0.1091
+Vivo Y17s 128GB
+0
+0.1
+1950.00
+1800.00 - 2150.00
+0,0.1,vivo,y17s,android,budget
+694181000091
+
+0.1092
+Realme 11 Pro+ 5G 512GB
+0
+0.1
+5800.00
+5300.00 - 6300.00
+0,0.1,realme,realme11,android,5g
+694181000092
+
+0.1093
+Realme C55 128GB
+0
+0.1
+2250.00
+2050.00 - 2500.00
+0,0.1,realme,c55,android,budget
+694181000093
+
+0.1094
+Realme C53 128GB
+0
+0.1
+1950.00
+1800.00 - 2150.00
+0,0.1,realme,c53,android,phone
+694181000094
+
+0.1095
+itel S23+ 256GB
+0
+0.1
+2200.00
+2000.00 - 2450.00
+0,0.1,itel,s23,amoled,budget
+489512000095
+
+0.1096
+itel P40 64GB
+0
+0.1
+1250.00
+1100.00 - 1400.00
+0,0.1,itel,p40,entry,battery
+489512000096
+
+0.1097
+Nokia G22 128GB
+0
+0.1
+2300.00
+2100.00 - 2550.00
+0,0.1,nokia,g22,repairable,android
+643840000097
+
+0.1098
+Nokia C12 64GB
+0
+0.1
+1200.00
+1050.00 - 1350.00
+0,0.1,nokia,c12,entry,budget
+643840000098
+
+0.1099
+ZTE Axon 50 Ultra 256GB
+0
+0.1
+8900.00
+8200.00 - 9600.00
+0,0.1,zte,axon,axon50,flagship
+694181000099
+
+0.1100
+ZTE Blade V50 Design 128GB
+0
+0.1
+1750.00
+1600.00 - 1950.00
+0,0.1,zte,blade,budget,android
+694181000100
+
+0.1101
+Blackview BV9300 Rugged Phone
+0
+0.1
+5200.00
+4800.00 - 5700.00
+0,0.1,blackview,rugged,battery,android
+694181000101
+
+0.1102
+Cubot KingKong 9 256GB
+0
+0.1
+4100.00
+3750.00 - 4500.00
+0,0.1,cubot,kingkong,rugged,phone
+694181000102
+
+0.1103
+Doogee V30T 5G Rugged Phone
+0
+0.1
+5900.00
+5400.00 - 6400.00
+0,0.1,doogee,rugged,v30t,5g
+694181000103
+
+0.1104
+OnePlus Nord 3 5G 256GB
+0
+0.1
+6700.00
+6200.00 - 7300.00
+0,0.1,oneplus,nord,nord3,5g
+694181000104
+
+0.1105
+OnePlus Nord CE 3 Lite 5G 128GB
+0
+0.1
+3900.00
+3600.00 - 4300.00
+0,0.1,oneplus,nord,lite,5g
+694181000105
+
+0.1106
+Motorola Edge 40 Neo 256GB
+0
+0.1
+5500.00
+5000.00 - 6000.00
+0,0.1,motorola,edge,edge40,android
+840244000106
+
+0.1107
+Motorola Moto G84 5G 256GB
+0
+0.1
+3800.00
+3500.00 - 4200.00
+0,0.1,motorola,moto,motog84,5g
+840244000107
+
+0.1108
+Motorola Moto G24 128GB
+0
+0.1
+1950.00
+1800.00 - 2150.00
+0,0.1,motorola,moto,g24,budget
+840244000108
+
+0.1109
+Nothing Phone (2a) 256GB
+0
+0.1
+5900.00
+5400.00 - 6500.00
+0,0.1,nothing,phone2a,glyph,android
+694181000109
+
+0.1110
+Nothing Phone (2) 512GB
+0
+0.1
+10800.00
+10000.00 - 11700.00
+0,0.1,nothing,phone2,flagship,glyph
+694181000110
+
+0.1011
+Apple iPhone 15 128GB
+0
+0.1
+12800.00
+12000.00 - 13800.00
+0,0.1,iphone,apple,ios,smartphone
+194253000011
+
+0.1012
+Apple iPhone 15 Plus 256GB
+0
+0.1
+15200.00
+14500.00 - 16200.00
+0,0.1,iphone,apple,ios,plus
+194253000012
+
+0.1013
+Apple iPhone 14 Pro 128GB
+0
+0.1
+13500.00
+12800.00 - 14500.00
+0,0.1,iphone,apple,ios,pro
+194253000013
+
+0.1014
+Apple iPhone 14 128GB
+0
+0.1
+10500.00
+9900.00 - 11400.00
+0,0.1,iphone,apple,ios,smartphone
+194253000014
+
+0.1015
+Apple iPhone 13 128GB
+0
+0.1
+8500.00
+8000.00 - 9200.00
+0,0.1,iphone,apple,ios,smartphone
+194253000015
+
+0.1016
+Apple iPhone 12 64GB
+0
+0.1
+6500.00
+6000.00 - 7100.00
+0,0.1,iphone,apple,ios,smartphone
+194253000016
+
+0.1017
+Apple iPhone SE (2022) 128GB
+0
+0.1
+5200.00
+4800.00 - 5700.00
+0,0.1,iphone,apple,ios,se
+194253000017
+
+0.1018
+Samsung Galaxy S24+ 256GB
+0
+0.1
+14800.00
+14000.00 - 15800.00
+0,0.1,samsung,galaxy,android,plus
+880609000018
+
+0.1019
+Samsung Galaxy S24 256GB
+0
+0.1
+12200.00
+11500.00 - 13000.00
+0,0.1,samsung,galaxy,android,smartphone
+880609000019
+
+0.1020
+Samsung Galaxy S23 Ultra 512GB
+0
+0.1
+15500.00
+14800.00 - 16500.00
+0,0.1,samsung,galaxy,ultra,android
+880609000020
+
+0.1021
+Samsung Galaxy S23 128GB
+0
+0.1
+9200.00
+8600.00 - 9900.00
+0,0.1,samsung,galaxy,android,phone
+880609000021
+
+0.1022
+Samsung Galaxy Z Fold 5 512GB
+0
+0.1
+21500.00
+20000.00 - 23000.00
+0,0.1,samsung,foldable,zfold,android
+880609000022
+
+0.1023
+Samsung Galaxy Z Flip 5 256GB
+0
+0.1
+11800.00
+11000.00 - 12800.00
+0,0.1,samsung,flip,zflip,android
+880609000023
+
+0.1024
+Samsung Galaxy A35 5G 128GB
+0
+0.1
+4300.00
+4000.00 - 4700.00
+0,0.1,samsung,galaxy,a35,android
+880609000024
+
+0.1025
+Samsung Galaxy A25 5G 128GB
+0
+0.1
+3400.00
+3100.00 - 3700.00
+0,0.1,samsung,galaxy,a25,android
+880609000025
+
+0.1026
+Samsung Galaxy A15 128GB
+0
+0.1
+2450.00
+2200.00 - 2700.00
+0,0.1,samsung,galaxy,a15,budget
+880609000026
+
+0.1027
+Samsung Galaxy A05s 128GB
+0
+0.1
+18500.00
+1700.00 - 2000.00
+0,0.1,samsung,galaxy,a05s,budget
+880609000027
+
+0.1028
+Tecno Phantom V Fold2 5G
+0
+0.1
+14500.00
+13800.00 - 15500.00
+0,0.1,tecno,phantom,fold,android
+489512000028
+
+0.1029
+Tecno Phantom X2 Pro 256GB
+0
+0.1
+7200.00
+6800.00 - 7800.00
+0,0.1,tecno,phantom,android,flagship
+489512000029
+
+0.1030
+Tecno Camon 30 Premier 5G
+0
+0.1
+6800.00
+6300.00 - 7400.00
+0,0.1,tecno,camon,premier,android
+489512000030
+
+0.1031
+Tecno Spark 20 Pro+ 256GB
+0
+0.1
+3100.00
+2900.00 - 3400.00
+0,0.1,tecno,spark,android,budget
+489512000031
+
+0.1032
+Tecno Spark 20 128GB
+0
+0.1
+1950.00
+1800.00 - 2150.00
+0,0.1,tecno,spark,android,phone
+489512000032
+
+0.1033
+Tecno Pop 8 64GB
+0
+0.1
+1400.00
+1250.00 - 1550.00
+0,0.1,tecno,pop,entry,budget
+489512000033
+
+0.1034
+Infinix Zero 30 5G 256GB
+0
+0.1
+5800.00
+5400.00 - 6300.00
+0,0.1,infinix,zero,android,vlog
+489512000034
+
+0.1035
+Infinix Note 40 256GB
+0
+0.1
+3200.00
+2950.00 - 3500.00
+0,0.1,infinix,note,android,phone
+489512000035
+
+0.1036
+Infinix Hot 40 Pro 256GB
+0
+0.1
+2550.00
+2350.00 - 2800.00
+0,0.1,infinix,hot,android,gaming
+489512000036
+
+0.1037
+Infinix Hot 40i 128GB
+0
+0.1
+1750.00
+1600.00 - 1950.00
+0,0.1,infinix,hot,android,budget
+489512000037
+
+0.1038
+Xiaomi 14 Ultra 512GB
+0
+0.1
+17500.00
+16500.00 - 18800.00
+0,0.1,xiaomi,ultra,android,camera
+694181000038
+
+0.1039
+Xiaomi 14 256GB
+0
+0.1
+11500.00
+10800.00 - 12400.00
+0,0.1,xiaomi,flagship,android,phone
+694181000039
+
+0.1040
+Xiaomi Redmi Note 13 128GB
+0
+0.1
+2850.00
+2600.00 - 3100.00
+0,0.1,xiaomi,redmi,android,budget
+694181000040
+
+0.1041
+Xiaomi Redmi 13C 128GB
+0
+0.1
+1700.00
+1550.00 - 1900.00
+0,0.1,xiaomi,redmi,android,entry
+694181000041
+
+0.1042
+Google Pixel 8 128GB
+0
+0.1
+9800.00
+9200.00 - 10600.00
+0,0.1,google,pixel,android,smartphone
+840244000042
+
+0.1043
+Google Pixel 7a 128GB
+0
+0.1
+6900.00
+6400.00 - 7500.00
+0,0.1,google,pixel,android,budget
+840244000043
+
+0.1044
+Oppo Reno 11 Pro 5G
+0
+0.1
+7500.00
+7000.00 - 8100.00
+0,0.1,oppo,reno,android,smartphone
+694181000044
+
+0.1045
+Oppo Reno 11 256GB
+0
+0.1
+5600.00
+5200.00 - 6100.00
+0,0.1,oppo,reno,android,phone
+694181000045
+
+0.1046
+Oppo A79 5G 256GB
+0
+0.1
+3600.00
+3300.00 - 3950.00
+0,0.1,oppo,a79,android,5g
+694181000046
+
+0.1047
+Oppo A38 128GB
+0
+0.1
+2100.00
+1900.00 - 2350.00
+0,0.1,oppo,a38,android,budget
+694181000047
+
+0.1048
+Vivo V30 Pro 5G 512GB
+0
+0.1
+8200.00
+7600.00 - 8900.00
+0,0.1,vivo,v30,android,camera
+694181000048
+
+0.1049
+Vivo V30 256GB
+0
+0.1
+6200.00
+5800.00 - 6800.00
+0,0.1,vivo,v30,android,smartphone
+694181000049
+
+0.1050
+Vivo Y28 256GB
+0
+0.1
+2600.00
+2400.00 - 2850.00
+0,0.1,vivo,y28,android,budget
+694181000050
+
+0.1051
+Huawei Pura 70 Ultra 512GB
+0
+0.1
+19200.00
+18000.00 - 20500.00
+0,0.1,huawei,pura,android,flagship
+694181000051
+
+0.1052
+Huawei Nova 12 SE 256GB
+0
+0.1
+4500.00
+4100.00 - 4900.00
+0,0.1,huawei,nova,android,phone
+694181000052
+
+0.1053
+Realme 12 Pro+ 5G
+0
+0.1
+6100.00
+5700.00 - 6600.00
+0,0.1,realme,android,5g,camera
+694181000053
+
+0.1054
+Realme C67 256GB
+0
+0.1
+2500.00
+2300.00 - 2750.00
+0,0.1,realme,c67,android,budget
+694181000054
+
+0.1055
+itel P55+ 256GB
+0
+0.1
+2000.00
+1850.00 - 2200.00
+0,0.1,itel,p55,android,budget
+489512000055
+
+0.1056
+itel A70 128GB
+0
+0.1
+1500.00
+1350.00 - 1680.00
+0,0.1,itel,a70,android,entry
+489512000056
+
+0.1057
+Hkphone X1 Smart Device
+0
+0.1
+1200.00
+1100.00 - 1350.00
+0,0.1,hkphone,android,entry
+489512000057
+
+0.1058
+Nokia G42 5G 128GB
+0
+0.1
+3100.00
+2850.00 - 3400.00
+0,0.1,nokia,g42,android,5g
+643840000058
+
+0.1059
+Nokia C32 128GB
+0
+0.1
+1800.00
+1650.00 - 2000.00
+0,0.1,nokia,c32,android,budget
+643840000059
+
+0.1060
+Ulefone Armor 24 Rugged Phone
+0
+0.1
+7500.00
+6900.00 - 8200.00
+0,0.1,ulefone,rugged,battery,android
+694181000060
+
